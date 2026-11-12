@@ -1,0 +1,27 @@
+name: Verify pool
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: pool
+      - uses: actions/checkout@v4
+        with:
+          repository: knux3k/marionette
+          path: engine
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: engine
+      - name: System libraries (ALSA, needed to build the CLI)
+        run: sudo apt-get update && sudo apt-get install -y libasound2-dev pkg-config
+      - name: Build the engine CLI
+        run: cargo build --locked -q -p marionette-cli --manifest-path engine/Cargo.toml
+      - name: Verify every asset, its proof and the index
+        run: engine/target/debug/marionette op pool_verify "{\"pool\":\"$GITHUB_WORKSPACE/pool\"}" --json
