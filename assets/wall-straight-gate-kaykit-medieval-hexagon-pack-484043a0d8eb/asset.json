@@ -1,0 +1,63 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "wall-straight-gate-kaykit-medieval-hexagon-pack-484043a0d8eb",
+  "kind": "model",
+  "name": "Wall straight gate (KayKit Medieval Hexagon Pack)",
+  "tags": [
+    "gate",
+    "hex",
+    "hexagon",
+    "kaykit",
+    "low-poly",
+    "medieval",
+    "straight",
+    "strategy",
+    "wall"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 881e50d3629fba90629bedc65e9e6f47cfab3609598c296dcb7f70ea83174360)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "sha256": "881e50d3629fba90629bedc65e9e6f47cfab3609598c296dcb7f70ea83174360",
+      "bytes": 1027
+    },
+    {
+      "path": "hexagons_medieval.png",
+      "sha256": "5301a06866ba3be68dcc14cc429bd6d0f69004b72884283715d7e233f2e9782e",
+      "bytes": 15783
+    },
+    {
+      "path": "wall_straight_gate.bin",
+      "sha256": "9e64ec5b8c23113bc1bdb57ae824e067216dcf3d8475e6303e3198556fb8da28",
+      "bytes": 47288
+    },
+    {
+      "path": "wall_straight_gate.gltf",
+      "sha256": "877f3e95f89c23741c38b9d2f8f307c1369042ec5c354d7858d72ab2b9666c3a",
+      "bytes": 7198
+    }
+  ],
+  "main": "wall_straight_gate.gltf",
+  "engine_ready": true
+}

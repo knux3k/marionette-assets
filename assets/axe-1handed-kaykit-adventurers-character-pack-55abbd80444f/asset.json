@@ -1,0 +1,61 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "axe-1handed-kaykit-adventurers-character-pack-55abbd80444f",
+  "kind": "model",
+  "name": "Axe 1handed (KayKit Adventurers Character Pack)",
+  "tags": [
+    "1handed",
+    "axe",
+    "character",
+    "fantasy",
+    "kaykit",
+    "low-poly",
+    "rigged"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 ae322141814056dda0deea7540d74c41d87aee1da319977cd1bd84ee5a923629)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "sha256": "ae322141814056dda0deea7540d74c41d87aee1da319977cd1bd84ee5a923629",
+      "bytes": 891
+    },
+    {
+      "path": "axe_1handed.bin",
+      "sha256": "0e3e5f009e0706506971fe5b1eae0fa30b0b28c70fd67c4b7943d975a821f4af",
+      "bytes": 12524
+    },
+    {
+      "path": "axe_1handed.gltf",
+      "sha256": "dbe0ba59abcae66a464809ee281179b10f85e41ef0d69786d39627472ca7e5dd",
+      "bytes": 3087
+    },
+    {
+      "path": "barbarian_texture.png",
+      "sha256": "7329b2ff9709e8d54c886d5ef49c08bd42b12be3bbb2facb1488a6b48b1e8a80",
+      "bytes": 15089
+    }
+  ],
+  "main": "axe_1handed.gltf",
+  "engine_ready": true
+}

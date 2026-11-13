@@ -1,0 +1,50 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "stairs-kaykit-dungeon-remastered-2bb8408bdc6e",
+  "kind": "model",
+  "name": "Stairs (KayKit Dungeon Remastered)",
+  "tags": [
+    "dungeon",
+    "fantasy",
+    "kaykit",
+    "low-poly",
+    "medieval",
+    "stairs"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 c5f17abf619731f57f6bbff450f6484214605c13aa96bb75bbcfc70930941ff7)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "sha256": "c5f17abf619731f57f6bbff450f6484214605c13aa96bb75bbcfc70930941ff7",
+      "bytes": 829
+    },
+    {
+      "path": "stairs.glb",
+      "sha256": "5ba16e5d919aaa8958435c4b73c1f8a94c98febeacf716faa1359f24e6b27d70",
+      "bytes": 43368
+    }
+  ],
+  "main": "stairs.glb",
+  "engine_ready": true
+}

@@ -1,0 +1,62 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "hills-a-trees-kaykit-medieval-hexagon-pack-408c5487c2d1",
+  "kind": "model",
+  "name": "Hills A trees (KayKit Medieval Hexagon Pack)",
+  "tags": [
+    "hex",
+    "hexagon",
+    "hills",
+    "kaykit",
+    "low-poly",
+    "medieval",
+    "strategy",
+    "trees"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 881e50d3629fba90629bedc65e9e6f47cfab3609598c296dcb7f70ea83174360)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "sha256": "881e50d3629fba90629bedc65e9e6f47cfab3609598c296dcb7f70ea83174360",
+      "bytes": 1027
+    },
+    {
+      "path": "hexagons_medieval.png",
+      "sha256": "5301a06866ba3be68dcc14cc429bd6d0f69004b72884283715d7e233f2e9782e",
+      "bytes": 15783
+    },
+    {
+      "path": "hills_A_trees.bin",
+      "sha256": "8554d4e0c5e9d049cfc82602bac8db69e3050b7eb6a020039dc7fe6d84ddd272",
+      "bytes": 31044
+    },
+    {
+      "path": "hills_A_trees.gltf",
+      "sha256": "6e7e71bd37856c442dc7cf562a1cc1e9eb172050dc002d2d65c3fb5b90ae1d28",
+      "bytes": 3043
+    }
+  ],
+  "main": "hills_A_trees.gltf",
+  "engine_ready": true
+}

@@ -1,0 +1,60 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "primitive-pillar-kaykit-prototype-bits-0543727306f0",
+  "kind": "model",
+  "name": "Primitive Pillar (KayKit Prototype Bits)",
+  "tags": [
+    "blockout",
+    "kaykit",
+    "low-poly",
+    "pillar",
+    "primitive",
+    "prototype"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 1706d3369ecd7676320c03c25a898cc29fd1bb83bd3136646c45e6f400058887)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Prototype-Bits-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "sha256": "1706d3369ecd7676320c03c25a898cc29fd1bb83bd3136646c45e6f400058887",
+      "bytes": 827
+    },
+    {
+      "path": "Primitive_Pillar.bin",
+      "sha256": "fb5904c609d17e3fb05431bba373093205f4e5a6b90545f1651de95f82cc0ba2",
+      "bytes": 840
+    },
+    {
+      "path": "Primitive_Pillar.gltf",
+      "sha256": "0c278dc30008c2dc58df01a32f42d520ec6ab03824edb9fd45d827514c244640",
+      "bytes": 3039
+    },
+    {
+      "path": "prototypebits_texture.png",
+      "sha256": "dec912e8cc8f8d09c29be48dda0daad90e653939c4e6fc799309ec1ae7a4cbcd",
+      "bytes": 29696
+    }
+  ],
+  "main": "Primitive_Pillar.gltf",
+  "engine_ready": true
+}

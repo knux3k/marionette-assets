@@ -1,0 +1,60 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "primitive-window-kaykit-prototype-bits-e483d69730da",
+  "kind": "model",
+  "name": "Primitive Window (KayKit Prototype Bits)",
+  "tags": [
+    "blockout",
+    "kaykit",
+    "low-poly",
+    "primitive",
+    "prototype",
+    "window"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 1706d3369ecd7676320c03c25a898cc29fd1bb83bd3136646c45e6f400058887)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Prototype-Bits-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "sha256": "1706d3369ecd7676320c03c25a898cc29fd1bb83bd3136646c45e6f400058887",
+      "bytes": 827
+    },
+    {
+      "path": "Primitive_Window.bin",
+      "sha256": "417ef9ed78bce21840c4f35f26d740fa47f42cbaf3b564157dbbe26e0f46c5e5",
+      "bytes": 1728
+    },
+    {
+      "path": "Primitive_Window.gltf",
+      "sha256": "70d73f8ed95b56be0d30ccc75f4c500a16e0e0e3f51ac7e356c90209d61d8fea",
+      "bytes": 3038
+    },
+    {
+      "path": "prototypebits_texture.png",
+      "sha256": "dec912e8cc8f8d09c29be48dda0daad90e653939c4e6fc799309ec1ae7a4cbcd",
+      "bytes": 29696
+    }
+  ],
+  "main": "Primitive_Window.gltf",
+  "engine_ready": true
+}

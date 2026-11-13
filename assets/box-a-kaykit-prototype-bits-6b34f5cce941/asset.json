@@ -1,0 +1,59 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "box-a-kaykit-prototype-bits-6b34f5cce941",
+  "kind": "model",
+  "name": "Box A (KayKit Prototype Bits)",
+  "tags": [
+    "blockout",
+    "box",
+    "kaykit",
+    "low-poly",
+    "prototype"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 1706d3369ecd7676320c03c25a898cc29fd1bb83bd3136646c45e6f400058887)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Prototype-Bits-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "Box_A.bin",
+      "sha256": "47291c159c85aeb2a3a4f277467b6ba09a7d38bf632a8594493623d70d3f2ee3",
+      "bytes": 3984
+    },
+    {
+      "path": "Box_A.gltf",
+      "sha256": "0827ec6ed1d62887ee1aa7189b22cc1c3408ef8a28e683eb8624bb49549ad077",
+      "bytes": 3059
+    },
+    {
+      "path": "LICENSE.txt",
+      "sha256": "1706d3369ecd7676320c03c25a898cc29fd1bb83bd3136646c45e6f400058887",
+      "bytes": 827
+    },
+    {
+      "path": "prototypebits_texture.png",
+      "sha256": "dec912e8cc8f8d09c29be48dda0daad90e653939c4e6fc799309ec1ae7a4cbcd",
+      "bytes": 29696
+    }
+  ],
+  "main": "Box_A.gltf",
+  "engine_ready": true
+}

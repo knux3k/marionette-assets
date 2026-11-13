@@ -1,0 +1,51 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "wall-corner-kaykit-dungeon-remastered-3a0ebd1baf8f",
+  "kind": "model",
+  "name": "Wall corner (KayKit Dungeon Remastered)",
+  "tags": [
+    "corner",
+    "dungeon",
+    "fantasy",
+    "kaykit",
+    "low-poly",
+    "medieval",
+    "wall"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 c5f17abf619731f57f6bbff450f6484214605c13aa96bb75bbcfc70930941ff7)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "sha256": "c5f17abf619731f57f6bbff450f6484214605c13aa96bb75bbcfc70930941ff7",
+      "bytes": 829
+    },
+    {
+      "path": "wall_corner.glb",
+      "sha256": "3c8cbcbf3abf78c9dc49f440b152340ef681fee9cccf9ca6ed27b6670a34eb81",
+      "bytes": 49212
+    }
+  ],
+  "main": "wall_corner.glb",
+  "engine_ready": true
+}

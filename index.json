@@ -2,6 +2,59 @@
   "assets": [
     {
       "engine_ready": true,
+      "id": "axe-1handed-kaykit-adventurers-character-pack-55abbd80444f",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "axe_1handed.gltf",
+      "name": "Axe 1handed (KayKit Adventurers Character Pack)",
+      "origin": "online",
+      "tags": [
+        "1handed",
+        "axe",
+        "character",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "rigged"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "banner-red-kaykit-dungeon-remastered-06ab6f76e9f2",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "banner_red.glb",
+      "name": "Banner red (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "banner",
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "red"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "barbarian-kaykit-adventurers-character-pack-10a57aa39f22",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Barbarian.glb",
+      "name": "Barbarian (KayKit Adventurers Character Pack)",
+      "origin": "online",
+      "tags": [
+        "barbarian",
+        "character",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "rigged"
+      ]
+    },
+    {
+      "engine_ready": true,
       "id": "bark-001-dbc758b0a439",
       "kind": "texture",
       "library": "ambientcg",
@@ -43,6 +96,40 @@
     },
     {
       "engine_ready": true,
+      "id": "barrel-a-kaykit-prototype-bits-b2f4451cf9e6",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Barrel_A.gltf",
+      "name": "Barrel A (KayKit Prototype Bits)",
+      "origin": "online",
+      "tags": [
+        "barrel",
+        "blockout",
+        "kaykit",
+        "low-poly",
+        "prototype"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "barrel-kaykit-medieval-hexagon-pack-b75c49ee59f0",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "barrel.gltf",
+      "name": "Barrel (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "barrel",
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "strategy"
+      ]
+    },
+    {
+      "engine_ready": true,
       "id": "barrel-kenney-platformer-kit-5e1c9e865763",
       "kind": "model",
       "library": "kenney",
@@ -52,6 +139,76 @@
       "tags": [
         "low-poly",
         "platformer"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "barrel-large-kaykit-dungeon-remastered-f6807d5b4099",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "barrel_large.glb",
+      "name": "Barrel large (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "barrel",
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "large",
+        "low-poly",
+        "medieval"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "base-kaykit-city-builder-bits-087d501abc8c",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "base.gltf",
+      "name": "Base (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "base",
+        "city",
+        "kaykit",
+        "low-poly",
+        "town",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "bed-decorated-kaykit-dungeon-remastered-751704860442",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "bed_decorated.glb",
+      "name": "Bed decorated (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "bed",
+        "decorated",
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "medieval"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "bench-kaykit-city-builder-bits-e4a9fa45f4dd",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "bench.gltf",
+      "name": "Bench (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "bench",
+        "city",
+        "kaykit",
+        "low-poly",
+        "town",
+        "urban"
       ]
     },
     {
@@ -72,6 +229,73 @@
     },
     {
       "engine_ready": true,
+      "id": "box-a-kaykit-city-builder-bits-bed2434b4d52",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "box_A.gltf",
+      "name": "Box A (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "box",
+        "city",
+        "kaykit",
+        "low-poly",
+        "town",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "box-a-kaykit-prototype-bits-6b34f5cce941",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Box_A.gltf",
+      "name": "Box A (KayKit Prototype Bits)",
+      "origin": "online",
+      "tags": [
+        "blockout",
+        "box",
+        "kaykit",
+        "low-poly",
+        "prototype"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "box-b-kaykit-prototype-bits-8f3d9901ceec",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Box_B.gltf",
+      "name": "Box B (KayKit Prototype Bits)",
+      "origin": "online",
+      "tags": [
+        "blockout",
+        "box",
+        "kaykit",
+        "low-poly",
+        "prototype"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "box-large-kaykit-dungeon-remastered-5fd0c0d5f7c5",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "box_large.glb",
+      "name": "Box large (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "box",
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "large",
+        "low-poly",
+        "medieval"
+      ]
+    },
+    {
+      "engine_ready": true,
       "id": "brick-wall-01-cgbookcase-2fec3e01c954",
       "kind": "texture",
       "library": "cgbookcase",
@@ -81,6 +305,378 @@
       "tags": [
         "brick",
         "wall"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "building-a-kaykit-city-builder-bits-674c8368c71b",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "building_A.gltf",
+      "name": "Building A (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "building",
+        "city",
+        "kaykit",
+        "low-poly",
+        "town",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "building-b-kaykit-city-builder-bits-128f1ae17364",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "building_B.gltf",
+      "name": "Building B (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "building",
+        "city",
+        "kaykit",
+        "low-poly",
+        "town",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "building-blacksmith-red-kaykit-medieval-hexagon-0f5795f1ad78",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "building_blacksmith_red.gltf",
+      "name": "Building blacksmith red (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "blacksmith",
+        "building",
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "red",
+        "strategy"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "building-bridge-a-kaykit-medieval-hexagon-pack-4634308d2907",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "building_bridge_A.gltf",
+      "name": "Building bridge A (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "bridge",
+        "building",
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "strategy"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "building-c-kaykit-city-builder-bits-ced26a5fada0",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "building_C.gltf",
+      "name": "Building C (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "building",
+        "city",
+        "kaykit",
+        "low-poly",
+        "town",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "building-castle-red-kaykit-medieval-hexagon-pack-bdd773bcd508",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "building_castle_red.gltf",
+      "name": "Building castle red (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "building",
+        "castle",
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "red",
+        "strategy"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "building-church-red-kaykit-medieval-hexagon-pack-767438bad551",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "building_church_red.gltf",
+      "name": "Building church red (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "building",
+        "church",
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "red",
+        "strategy"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "building-d-kaykit-city-builder-bits-60c3a1b2d95d",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "building_D.gltf",
+      "name": "Building D (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "building",
+        "city",
+        "kaykit",
+        "low-poly",
+        "town",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "building-e-kaykit-city-builder-bits-f34b6fdf89b2",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "building_E.gltf",
+      "name": "Building E (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "building",
+        "city",
+        "kaykit",
+        "low-poly",
+        "town",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "building-f-kaykit-city-builder-bits-0be88cc131b8",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "building_F.gltf",
+      "name": "Building F (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "building",
+        "city",
+        "kaykit",
+        "low-poly",
+        "town",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "building-g-kaykit-city-builder-bits-3d611b194552",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "building_G.gltf",
+      "name": "Building G (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "building",
+        "city",
+        "kaykit",
+        "low-poly",
+        "town",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "building-h-kaykit-city-builder-bits-86d2a4f57901",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "building_H.gltf",
+      "name": "Building H (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "building",
+        "city",
+        "kaykit",
+        "low-poly",
+        "town",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "building-home-a-red-kaykit-medieval-hexagon-pack-19f3e06e1609",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "building_home_A_red.gltf",
+      "name": "Building home A red (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "building",
+        "hex",
+        "hexagon",
+        "home",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "red",
+        "strategy"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "building-market-red-kaykit-medieval-hexagon-pack-ddc25ee40b94",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "building_market_red.gltf",
+      "name": "Building market red (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "building",
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "market",
+        "medieval",
+        "red",
+        "strategy"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "building-tavern-red-kaykit-medieval-hexagon-pack-7d14ea3b0e2d",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "building_tavern_red.gltf",
+      "name": "Building tavern red (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "building",
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "red",
+        "strategy",
+        "tavern"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "building-tower-a-red-kaykit-medieval-hexagon-pac-6cef76e19899",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "building_tower_A_red.gltf",
+      "name": "Building tower A red (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "building",
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "red",
+        "strategy",
+        "tower"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "building-watermill-red-kaykit-medieval-hexagon-p-ddb01f4081db",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "building_watermill_red.gltf",
+      "name": "Building watermill red (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "building",
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "red",
+        "strategy",
+        "watermill"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "building-well-red-kaykit-medieval-hexagon-pack-db05d6f8fbd1",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "building_well_red.gltf",
+      "name": "Building well red (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "building",
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "red",
+        "strategy",
+        "well"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "building-windmill-red-kaykit-medieval-hexagon-pa-e4e4e2efcf98",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "building_windmill_red.gltf",
+      "name": "Building windmill red (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "building",
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "red",
+        "strategy",
+        "windmill"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "bush-kaykit-city-builder-bits-20388ddb11c0",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "bush.gltf",
+      "name": "Bush (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "bush",
+        "city",
+        "kaykit",
+        "low-poly",
+        "town",
+        "urban"
       ]
     },
     {
@@ -98,6 +694,166 @@
     },
     {
       "engine_ready": true,
+      "id": "candle-lit-kaykit-dungeon-remastered-a4b828b06216",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "candle_lit.glb",
+      "name": "Candle lit (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "candle",
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "lit",
+        "low-poly",
+        "medieval"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "car-hatchback-kaykit-city-builder-bits-219a31366c7a",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "car_hatchback.gltf",
+      "name": "Car hatchback (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "car",
+        "city",
+        "hatchback",
+        "kaykit",
+        "low-poly",
+        "town",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "car-police-kaykit-city-builder-bits-c1d2f260b3c4",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "car_police.gltf",
+      "name": "Car police (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "car",
+        "city",
+        "kaykit",
+        "low-poly",
+        "police",
+        "town",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "car-sedan-kaykit-city-builder-bits-09fb0a033aa0",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "car_sedan.gltf",
+      "name": "Car sedan (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "car",
+        "city",
+        "kaykit",
+        "low-poly",
+        "sedan",
+        "town",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "car-stationwagon-kaykit-city-builder-bits-8212084bd152",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "car_stationwagon.gltf",
+      "name": "Car stationwagon (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "car",
+        "city",
+        "kaykit",
+        "low-poly",
+        "stationwagon",
+        "town",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "car-taxi-kaykit-city-builder-bits-acf89ca8630a",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "car_taxi.gltf",
+      "name": "Car taxi (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "car",
+        "city",
+        "kaykit",
+        "low-poly",
+        "taxi",
+        "town",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "chair-kaykit-dungeon-remastered-db022387d9b7",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "chair.glb",
+      "name": "Chair (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "chair",
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "medieval"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "chest-gold-kaykit-dungeon-remastered-7cced58f58a2",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "chest_gold.glb",
+      "name": "Chest gold (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "chest",
+        "dungeon",
+        "fantasy",
+        "gold",
+        "kaykit",
+        "low-poly",
+        "medieval"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "chest-kaykit-dungeon-remastered-166197f74c74",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "chest.glb",
+      "name": "Chest (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "chest",
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "medieval"
+      ]
+    },
+    {
+      "engine_ready": true,
       "id": "chest-kenney-platformer-kit-e35b2b57b0d9",
       "kind": "model",
       "library": "kenney",
@@ -107,6 +863,25 @@
       "tags": [
         "low-poly",
         "platformer"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "cloud-big-kaykit-medieval-hexagon-pack-0652bc118b34",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "cloud_big.gltf",
+      "name": "Cloud big (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "big",
+        "cloud",
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "strategy"
       ]
     },
     {
@@ -125,6 +900,22 @@
     },
     {
       "engine_ready": true,
+      "id": "coin-a-kaykit-prototype-bits-8b5673d0ccd2",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Coin_A.gltf",
+      "name": "Coin A (KayKit Prototype Bits)",
+      "origin": "online",
+      "tags": [
+        "blockout",
+        "coin",
+        "kaykit",
+        "low-poly",
+        "prototype"
+      ]
+    },
+    {
+      "engine_ready": true,
       "id": "coin-gold-kenney-platformer-kit-f5c9f3a042e3",
       "kind": "model",
       "library": "kenney",
@@ -138,6 +929,61 @@
     },
     {
       "engine_ready": true,
+      "id": "coin-stack-large-kaykit-dungeon-remastered-e448cd2ef7ad",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "coin_stack_large.glb",
+      "name": "Coin stack large (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "coin",
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "large",
+        "low-poly",
+        "medieval",
+        "stack"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "column-kaykit-dungeon-remastered-9c3021b28601",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "column.glb",
+      "name": "Column (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "column",
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "medieval"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "crate-a-big-kaykit-medieval-hexagon-pack-ff914e6c2e05",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "crate_A_big.gltf",
+      "name": "Crate A big (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "big",
+        "crate",
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "strategy"
+      ]
+    },
+    {
+      "engine_ready": true,
       "id": "crate-kenney-platformer-kit-1c62b963ab81",
       "kind": "model",
       "library": "kenney",
@@ -147,6 +993,92 @@
       "tags": [
         "low-poly",
         "platformer"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "crates-stacked-kaykit-dungeon-remastered-d43954abc1b1",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "crates_stacked.glb",
+      "name": "Crates stacked (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "crates",
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "stacked"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "crossbow-1handed-kaykit-adventurers-character-pa-5b5fdf6f2b89",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "crossbow_1handed.gltf",
+      "name": "Crossbow 1handed (KayKit Adventurers Character Pack)",
+      "origin": "online",
+      "tags": [
+        "1handed",
+        "character",
+        "crossbow",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "rigged"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "door-a-kaykit-prototype-bits-b004a370ccce",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Door_A.gltf",
+      "name": "Door A (KayKit Prototype Bits)",
+      "origin": "online",
+      "tags": [
+        "blockout",
+        "door",
+        "kaykit",
+        "low-poly",
+        "prototype"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "dummy-base-kaykit-prototype-bits-cffee9af12e3",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Dummy_Base.gltf",
+      "name": "Dummy Base (KayKit Prototype Bits)",
+      "origin": "online",
+      "tags": [
+        "base",
+        "blockout",
+        "dummy",
+        "kaykit",
+        "low-poly",
+        "prototype"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "dumpster-kaykit-city-builder-bits-3ece5c0448c6",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "dumpster.gltf",
+      "name": "Dumpster (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "city",
+        "dumpster",
+        "kaykit",
+        "low-poly",
+        "town",
+        "urban"
       ]
     },
     {
@@ -167,6 +1099,43 @@
     },
     {
       "engine_ready": true,
+      "id": "fence-wood-straight-kaykit-medieval-hexagon-pack-9776cd7d9ee3",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "fence_wood_straight.gltf",
+      "name": "Fence wood straight (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "fence",
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "straight",
+        "strategy",
+        "wood"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "firehydrant-kaykit-city-builder-bits-dd07e710211c",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "firehydrant.gltf",
+      "name": "Firehydrant (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "city",
+        "firehydrant",
+        "kaykit",
+        "low-poly",
+        "town",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
       "id": "flag-kenney-platformer-kit-a159dc2bd0eb",
       "kind": "model",
       "library": "kenney",
@@ -176,6 +1145,137 @@
       "tags": [
         "low-poly",
         "platformer"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "flag-red-kaykit-medieval-hexagon-pack-902a871a4b82",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "flag_red.gltf",
+      "name": "Flag red (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "flag",
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "red",
+        "strategy"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "floor-dirt-large-kaykit-dungeon-remastered-0d2719ea9af1",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "floor_dirt_large.glb",
+      "name": "Floor dirt large (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "dirt",
+        "dungeon",
+        "fantasy",
+        "floor",
+        "kaykit",
+        "large",
+        "low-poly",
+        "medieval"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "floor-prototype-kaykit-prototype-bits-5db9d7a8bffa",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Floor_Prototype.gltf",
+      "name": "Floor Prototype (KayKit Prototype Bits)",
+      "origin": "online",
+      "tags": [
+        "blockout",
+        "floor",
+        "kaykit",
+        "low-poly",
+        "prototype"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "floor-tile-big-spikes-kaykit-dungeon-remastered-091a09f68c6f",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "floor_tile_big_spikes.glb",
+      "name": "Floor tile big spikes (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "big",
+        "dungeon",
+        "fantasy",
+        "floor",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "spikes",
+        "tile"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "floor-tile-large-kaykit-dungeon-remastered-973c2ec9cbd9",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "floor_tile_large.glb",
+      "name": "Floor tile large (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "dungeon",
+        "fantasy",
+        "floor",
+        "kaykit",
+        "large",
+        "low-poly",
+        "medieval",
+        "tile"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "floor-tile-small-kaykit-dungeon-remastered-5e2af80009c7",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "floor_tile_small.glb",
+      "name": "Floor tile small (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "dungeon",
+        "fantasy",
+        "floor",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "small",
+        "tile"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "floor-wood-large-kaykit-dungeon-remastered-61a5abcbcaf9",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "floor_wood_large.glb",
+      "name": "Floor wood large (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "dungeon",
+        "fantasy",
+        "floor",
+        "kaykit",
+        "large",
+        "low-poly",
+        "medieval",
+        "wood"
       ]
     },
     {
@@ -300,6 +1400,171 @@
     },
     {
       "engine_ready": true,
+      "id": "hex-coast-a-kaykit-medieval-hexagon-pack-dde63425c116",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "hex_coast_A.gltf",
+      "name": "Hex coast A (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "coast",
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "strategy"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "hex-grass-kaykit-medieval-hexagon-pack-145720eccf55",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "hex_grass.gltf",
+      "name": "Hex grass (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "grass",
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "strategy"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "hex-grass-sloped-high-kaykit-medieval-hexagon-pa-27670f65bbf4",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "hex_grass_sloped_high.gltf",
+      "name": "Hex grass sloped high (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "grass",
+        "hex",
+        "hexagon",
+        "high",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "sloped",
+        "strategy"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "hex-river-a-kaykit-medieval-hexagon-pack-62431d310563",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "hex_river_A.gltf",
+      "name": "Hex river A (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "river",
+        "strategy"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "hex-river-b-kaykit-medieval-hexagon-pack-c6a7fe4b0348",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "hex_river_B.gltf",
+      "name": "Hex river B (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "river",
+        "strategy"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "hex-road-a-kaykit-medieval-hexagon-pack-82ec1bb34724",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "hex_road_A.gltf",
+      "name": "Hex road A (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "road",
+        "strategy"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "hex-road-b-kaykit-medieval-hexagon-pack-b5972deeb305",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "hex_road_B.gltf",
+      "name": "Hex road B (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "road",
+        "strategy"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "hex-water-kaykit-medieval-hexagon-pack-286cb7e96915",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "hex_water.gltf",
+      "name": "Hex water (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "strategy",
+        "water"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "hills-a-trees-kaykit-medieval-hexagon-pack-408c5487c2d1",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "hills_A_trees.gltf",
+      "name": "Hills A trees (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "hex",
+        "hexagon",
+        "hills",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "strategy",
+        "trees"
+      ]
+    },
+    {
+      "engine_ready": true,
       "id": "impactbell-heavy-kenney-impact-sounds-9a1c240a426d",
       "kind": "sound",
       "library": "kenney",
@@ -391,6 +1656,40 @@
     },
     {
       "engine_ready": true,
+      "id": "keg-kaykit-dungeon-remastered-4932537e869a",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "keg.glb",
+      "name": "Keg (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "keg",
+        "low-poly",
+        "medieval"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "key-kaykit-dungeon-remastered-5d62c8f06058",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "key.glb",
+      "name": "Key (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "key",
+        "low-poly",
+        "medieval"
+      ]
+    },
+    {
+      "engine_ready": true,
       "id": "key-kenney-platformer-kit-0621701f6798",
       "kind": "model",
       "library": "kenney",
@@ -400,6 +1699,23 @@
       "tags": [
         "low-poly",
         "platformer"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "knight-kaykit-adventurers-character-pack-93200f94732a",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Knight.glb",
+      "name": "Knight (KayKit Adventurers Character Pack)",
+      "origin": "online",
+      "tags": [
+        "character",
+        "fantasy",
+        "kaykit",
+        "knight",
+        "low-poly",
+        "rigged"
       ]
     },
     {
@@ -443,6 +1759,23 @@
       "tags": [
         "low-poly",
         "nature"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "mage-kaykit-adventurers-character-pack-4d73bc048f88",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Mage.glb",
+      "name": "Mage (KayKit Adventurers Character Pack)",
+      "origin": "online",
+      "tags": [
+        "character",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "mage",
+        "rigged"
       ]
     },
     {
@@ -519,6 +1852,44 @@
     },
     {
       "engine_ready": true,
+      "id": "mountain-a-grass-trees-kaykit-medieval-hexagon-p-28de1847c26b",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "mountain_A_grass_trees.gltf",
+      "name": "Mountain A grass trees (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "grass",
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "mountain",
+        "strategy",
+        "trees"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "mug-full-kaykit-adventurers-character-pack-d4e9bb0cc99e",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "mug_full.gltf",
+      "name": "Mug full (KayKit Adventurers Character Pack)",
+      "origin": "online",
+      "tags": [
+        "character",
+        "fantasy",
+        "full",
+        "kaykit",
+        "low-poly",
+        "mug",
+        "rigged"
+      ]
+    },
+    {
+      "engine_ready": true,
       "id": "mushroom-redgroup-kenney-nature-kit-bc3a8b18c927",
       "kind": "model",
       "library": "kenney",
@@ -528,6 +1899,23 @@
       "tags": [
         "low-poly",
         "nature"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "pallet-large-kaykit-prototype-bits-e68e700b6511",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Pallet_Large.gltf",
+      "name": "Pallet Large (KayKit Prototype Bits)",
+      "origin": "online",
+      "tags": [
+        "blockout",
+        "kaykit",
+        "large",
+        "low-poly",
+        "pallet",
+        "prototype"
       ]
     },
     {
@@ -560,6 +1948,39 @@
         "pavement",
         "paving",
         "stones"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "pillar-a-kaykit-prototype-bits-9fd2dbf31a1e",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Pillar_A.gltf",
+      "name": "Pillar A (KayKit Prototype Bits)",
+      "origin": "online",
+      "tags": [
+        "blockout",
+        "kaykit",
+        "low-poly",
+        "pillar",
+        "prototype"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "pillar-kaykit-dungeon-remastered-e1eb2b5948d2",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "pillar.glb",
+      "name": "Pillar (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "pillar"
       ]
     },
     {
@@ -610,6 +2031,195 @@
         "potted plants",
         "terracotta",
         "vase"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "primitive-beam-kaykit-prototype-bits-4c89728002b9",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Primitive_Beam.gltf",
+      "name": "Primitive Beam (KayKit Prototype Bits)",
+      "origin": "online",
+      "tags": [
+        "beam",
+        "blockout",
+        "kaykit",
+        "low-poly",
+        "primitive",
+        "prototype"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "primitive-cube-kaykit-prototype-bits-a261afb117a2",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Primitive_Cube.gltf",
+      "name": "Primitive Cube (KayKit Prototype Bits)",
+      "origin": "online",
+      "tags": [
+        "blockout",
+        "cube",
+        "kaykit",
+        "low-poly",
+        "primitive",
+        "prototype"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "primitive-cube-small-kaykit-prototype-bits-16e24398f098",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Primitive_Cube_Small.gltf",
+      "name": "Primitive Cube Small (KayKit Prototype Bits)",
+      "origin": "online",
+      "tags": [
+        "blockout",
+        "cube",
+        "kaykit",
+        "low-poly",
+        "primitive",
+        "prototype",
+        "small"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "primitive-doorway-kaykit-prototype-bits-bce87d2d9476",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Primitive_Doorway.gltf",
+      "name": "Primitive Doorway (KayKit Prototype Bits)",
+      "origin": "online",
+      "tags": [
+        "blockout",
+        "doorway",
+        "kaykit",
+        "low-poly",
+        "primitive",
+        "prototype"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "primitive-floor-kaykit-prototype-bits-c22a8d24b9a8",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Primitive_Floor.gltf",
+      "name": "Primitive Floor (KayKit Prototype Bits)",
+      "origin": "online",
+      "tags": [
+        "blockout",
+        "floor",
+        "kaykit",
+        "low-poly",
+        "primitive",
+        "prototype"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "primitive-pillar-kaykit-prototype-bits-0543727306f0",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Primitive_Pillar.gltf",
+      "name": "Primitive Pillar (KayKit Prototype Bits)",
+      "origin": "online",
+      "tags": [
+        "blockout",
+        "kaykit",
+        "low-poly",
+        "pillar",
+        "primitive",
+        "prototype"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "primitive-slope-kaykit-prototype-bits-722c12b7cd12",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Primitive_Slope.gltf",
+      "name": "Primitive Slope (KayKit Prototype Bits)",
+      "origin": "online",
+      "tags": [
+        "blockout",
+        "kaykit",
+        "low-poly",
+        "primitive",
+        "prototype",
+        "slope"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "primitive-stairs-kaykit-prototype-bits-c4863f0eea90",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Primitive_Stairs.gltf",
+      "name": "Primitive Stairs (KayKit Prototype Bits)",
+      "origin": "online",
+      "tags": [
+        "blockout",
+        "kaykit",
+        "low-poly",
+        "primitive",
+        "prototype",
+        "stairs"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "primitive-wall-half-kaykit-prototype-bits-c3af55945988",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Primitive_Wall_Half.gltf",
+      "name": "Primitive Wall Half (KayKit Prototype Bits)",
+      "origin": "online",
+      "tags": [
+        "blockout",
+        "half",
+        "kaykit",
+        "low-poly",
+        "primitive",
+        "prototype",
+        "wall"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "primitive-wall-kaykit-prototype-bits-12cbe7cd002f",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Primitive_Wall.gltf",
+      "name": "Primitive Wall (KayKit Prototype Bits)",
+      "origin": "online",
+      "tags": [
+        "blockout",
+        "kaykit",
+        "low-poly",
+        "primitive",
+        "prototype",
+        "wall"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "primitive-window-kaykit-prototype-bits-e483d69730da",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Primitive_Window.gltf",
+      "name": "Primitive Window (KayKit Prototype Bits)",
+      "origin": "online",
+      "tags": [
+        "blockout",
+        "kaykit",
+        "low-poly",
+        "primitive",
+        "prototype",
+        "window"
       ]
     },
     {
@@ -806,6 +2416,116 @@
     },
     {
       "engine_ready": true,
+      "id": "road-corner-curved-kaykit-city-builder-bits-b9c371e11703",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "road_corner_curved.gltf",
+      "name": "Road corner curved (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "city",
+        "corner",
+        "curved",
+        "kaykit",
+        "low-poly",
+        "road",
+        "town",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "road-corner-kaykit-city-builder-bits-bd6ea21100ac",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "road_corner.gltf",
+      "name": "Road corner (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "city",
+        "corner",
+        "kaykit",
+        "low-poly",
+        "road",
+        "town",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "road-junction-kaykit-city-builder-bits-8fdeee7efb4b",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "road_junction.gltf",
+      "name": "Road junction (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "city",
+        "junction",
+        "kaykit",
+        "low-poly",
+        "road",
+        "town",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "road-straight-crossing-kaykit-city-builder-bits-8e822c672337",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "road_straight_crossing.gltf",
+      "name": "Road straight crossing (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "city",
+        "crossing",
+        "kaykit",
+        "low-poly",
+        "road",
+        "straight",
+        "town",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "road-straight-kaykit-city-builder-bits-01096b928a55",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "road_straight.gltf",
+      "name": "Road straight (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "city",
+        "kaykit",
+        "low-poly",
+        "road",
+        "straight",
+        "town",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "road-tsplit-kaykit-city-builder-bits-c5ecb7337801",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "road_tsplit.gltf",
+      "name": "Road tsplit (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "city",
+        "kaykit",
+        "low-poly",
+        "road",
+        "town",
+        "tsplit",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
       "id": "rock-largea-kenney-nature-kit-9f0a8883c642",
       "kind": "model",
       "library": "kenney",
@@ -839,6 +2559,25 @@
     },
     {
       "engine_ready": true,
+      "id": "rock-single-a-kaykit-medieval-hexagon-pack-91bcec119f3d",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "rock_single_A.gltf",
+      "name": "Rock single A (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "rock",
+        "single",
+        "strategy"
+      ]
+    },
+    {
+      "engine_ready": true,
       "id": "rock-talla-kenney-nature-kit-e382fe05522c",
       "kind": "model",
       "library": "kenney",
@@ -848,6 +2587,95 @@
       "tags": [
         "low-poly",
         "nature"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "rogue-kaykit-adventurers-character-pack-02212d52963b",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Rogue.glb",
+      "name": "Rogue (KayKit Adventurers Character Pack)",
+      "origin": "online",
+      "tags": [
+        "character",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "rigged",
+        "rogue"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "rubble-large-kaykit-dungeon-remastered-a9f673ea0d07",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "rubble_large.glb",
+      "name": "Rubble large (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "large",
+        "low-poly",
+        "medieval",
+        "rubble"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "shelf-large-kaykit-dungeon-remastered-530e8f5d2f45",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "shelf_large.glb",
+      "name": "Shelf large (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "large",
+        "low-poly",
+        "medieval",
+        "shelf"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "shield-round-kaykit-adventurers-character-pack-6165d76fdd4d",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "shield_round.gltf",
+      "name": "Shield round (KayKit Adventurers Character Pack)",
+      "origin": "online",
+      "tags": [
+        "character",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "rigged",
+        "round",
+        "shield"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "shield-square-kaykit-adventurers-character-pack-f0433924d104",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "shield_square.gltf",
+      "name": "Shield square (KayKit Adventurers Character Pack)",
+      "origin": "online",
+      "tags": [
+        "character",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "rigged",
+        "shield",
+        "square"
       ]
     },
     {
@@ -865,6 +2693,139 @@
     },
     {
       "engine_ready": true,
+      "id": "skeleton-axe-kaykit-character-pack-skeletons-c6252ec6f386",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Skeleton_Axe.gltf",
+      "name": "Skeleton Axe (KayKit Character Pack: Skeletons)",
+      "origin": "online",
+      "tags": [
+        "axe",
+        "character",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "rigged",
+        "skeleton",
+        "undead"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "skeleton-blade-kaykit-character-pack-skeletons-7805ac385e7b",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Skeleton_Blade.gltf",
+      "name": "Skeleton Blade (KayKit Character Pack: Skeletons)",
+      "origin": "online",
+      "tags": [
+        "blade",
+        "character",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "rigged",
+        "skeleton",
+        "undead"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "skeleton-minion-kaykit-character-pack-skeletons-4629a8163c55",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Skeleton_Minion.glb",
+      "name": "Skeleton Minion (KayKit Character Pack: Skeletons)",
+      "origin": "online",
+      "tags": [
+        "character",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "minion",
+        "rigged",
+        "skeleton",
+        "undead"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "skeleton-shield-large-a-kaykit-character-pack-sk-7dacb3fe216a",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Skeleton_Shield_Large_A.gltf",
+      "name": "Skeleton Shield Large A (KayKit Character Pack: Skeletons)",
+      "origin": "online",
+      "tags": [
+        "character",
+        "fantasy",
+        "kaykit",
+        "large",
+        "low-poly",
+        "rigged",
+        "shield",
+        "skeleton",
+        "undead"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "skeleton-staff-kaykit-character-pack-skeletons-08e46b21a98a",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Skeleton_Staff.gltf",
+      "name": "Skeleton Staff (KayKit Character Pack: Skeletons)",
+      "origin": "online",
+      "tags": [
+        "character",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "rigged",
+        "skeleton",
+        "staff",
+        "undead"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "skeleton-warrior-kaykit-character-pack-skeletons-68778b11730e",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Skeleton_Warrior.glb",
+      "name": "Skeleton Warrior (KayKit Character Pack: Skeletons)",
+      "origin": "online",
+      "tags": [
+        "character",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "rigged",
+        "skeleton",
+        "undead",
+        "warrior"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "spellbook-open-kaykit-adventurers-character-pack-2e69063ffdce",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "spellbook_open.gltf",
+      "name": "Spellbook open (KayKit Adventurers Character Pack)",
+      "origin": "online",
+      "tags": [
+        "character",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "open",
+        "rigged",
+        "spellbook"
+      ]
+    },
+    {
+      "engine_ready": true,
       "id": "spring-kenney-platformer-kit-4599abc37324",
       "kind": "model",
       "library": "kenney",
@@ -874,6 +2835,57 @@
       "tags": [
         "low-poly",
         "platformer"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "staff-kaykit-adventurers-character-pack-d558812d24e6",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "staff.gltf",
+      "name": "Staff (KayKit Adventurers Character Pack)",
+      "origin": "online",
+      "tags": [
+        "character",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "rigged",
+        "staff"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "stairs-kaykit-dungeon-remastered-2bb8408bdc6e",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "stairs.glb",
+      "name": "Stairs (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "stairs"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "stool-kaykit-dungeon-remastered-c4aaab221c7c",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "stool.glb",
+      "name": "Stool (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "stool"
       ]
     },
     {
@@ -903,6 +2915,23 @@
     },
     {
       "engine_ready": true,
+      "id": "streetlight-kaykit-city-builder-bits-cd92eb302ae4",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "streetlight.gltf",
+      "name": "Streetlight (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "city",
+        "kaykit",
+        "low-poly",
+        "streetlight",
+        "town",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
       "id": "stump-round-kenney-nature-kit-4d335163852b",
       "kind": "model",
       "library": "kenney",
@@ -916,6 +2945,111 @@
     },
     {
       "engine_ready": true,
+      "id": "sword-1handed-kaykit-adventurers-character-pack-db33ad704f20",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "sword_1handed.gltf",
+      "name": "Sword 1handed (KayKit Adventurers Character Pack)",
+      "origin": "online",
+      "tags": [
+        "1handed",
+        "character",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "rigged",
+        "sword"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "sword-2handed-kaykit-adventurers-character-pack-0ec559df821f",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "sword_2handed.gltf",
+      "name": "Sword 2handed (KayKit Adventurers Character Pack)",
+      "origin": "online",
+      "tags": [
+        "2handed",
+        "character",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "rigged",
+        "sword"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "sword-shield-kaykit-dungeon-remastered-2662457d8286",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "sword_shield.glb",
+      "name": "Sword shield (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "shield",
+        "sword"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "table-medium-kaykit-dungeon-remastered-489ad9ad88ed",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "table_medium.glb",
+      "name": "Table medium (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "medium",
+        "table"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "table-medium-kaykit-prototype-bits-46e6955c0d99",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "table_medium.gltf",
+      "name": "Table medium (KayKit Prototype Bits)",
+      "origin": "online",
+      "tags": [
+        "blockout",
+        "kaykit",
+        "low-poly",
+        "medium",
+        "prototype",
+        "table"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "target-kaykit-prototype-bits-7fdc56496e9c",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "target.gltf",
+      "name": "Target (KayKit Prototype Bits)",
+      "origin": "online",
+      "tags": [
+        "blockout",
+        "kaykit",
+        "low-poly",
+        "prototype",
+        "target"
+      ]
+    },
+    {
+      "engine_ready": true,
       "id": "tent-detailedopen-kenney-nature-kit-c75ce3bc82ce",
       "kind": "model",
       "library": "kenney",
@@ -925,6 +3059,94 @@
       "tags": [
         "low-poly",
         "nature"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "tent-kaykit-medieval-hexagon-pack-2cb8d2f8ab65",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "tent.gltf",
+      "name": "Tent (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "strategy",
+        "tent"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "torch-lit-kaykit-dungeon-remastered-8b617eeefe23",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "torch_lit.glb",
+      "name": "Torch lit (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "lit",
+        "low-poly",
+        "medieval",
+        "torch"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "torch-mounted-kaykit-dungeon-remastered-c5146c80f7d3",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "torch_mounted.glb",
+      "name": "Torch mounted (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "mounted",
+        "torch"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "trafficlight-a-kaykit-city-builder-bits-3b050fcdd0ac",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "trafficlight_A.gltf",
+      "name": "Trafficlight A (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "city",
+        "kaykit",
+        "low-poly",
+        "town",
+        "trafficlight",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "trash-a-kaykit-city-builder-bits-c18841eff07d",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "trash_A.gltf",
+      "name": "Trash A (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "city",
+        "kaykit",
+        "low-poly",
+        "town",
+        "trash",
+        "urban"
       ]
     },
     {
@@ -977,6 +3199,279 @@
       "tags": [
         "low-poly",
         "nature"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "tree-single-a-kaykit-medieval-hexagon-pack-5de77051fa4c",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "tree_single_A.gltf",
+      "name": "Tree single A (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "single",
+        "strategy",
+        "tree"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "trees-a-large-kaykit-medieval-hexagon-pack-5958036ee088",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "trees_A_large.gltf",
+      "name": "Trees A large (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "hex",
+        "hexagon",
+        "kaykit",
+        "large",
+        "low-poly",
+        "medieval",
+        "strategy",
+        "trees"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "trees-b-medium-kaykit-medieval-hexagon-pack-4671e39fcf96",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "trees_B_medium.gltf",
+      "name": "Trees B medium (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "medium",
+        "strategy",
+        "trees"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "wall-arched-kaykit-dungeon-remastered-071a1adb8c52",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "wall_arched.glb",
+      "name": "Wall arched (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "arched",
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "wall"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "wall-broken-kaykit-dungeon-remastered-67abeb85be7c",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "wall_broken.glb",
+      "name": "Wall broken (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "broken",
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "wall"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "wall-corner-kaykit-dungeon-remastered-3a0ebd1baf8f",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "wall_corner.glb",
+      "name": "Wall corner (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "corner",
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "wall"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "wall-doorway-kaykit-dungeon-remastered-708f2baa7352",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "wall_doorway.glb",
+      "name": "Wall doorway (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "doorway",
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "wall"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "wall-doorway-kaykit-prototype-bits-3fb5c32138e7",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "Wall_Doorway.gltf",
+      "name": "Wall Doorway (KayKit Prototype Bits)",
+      "origin": "online",
+      "tags": [
+        "blockout",
+        "doorway",
+        "kaykit",
+        "low-poly",
+        "prototype",
+        "wall"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "wall-kaykit-dungeon-remastered-093435397f65",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "wall.glb",
+      "name": "Wall (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "wall"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "wall-straight-gate-kaykit-medieval-hexagon-pack-484043a0d8eb",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "wall_straight_gate.gltf",
+      "name": "Wall straight gate (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "gate",
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "straight",
+        "strategy",
+        "wall"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "wall-straight-kaykit-medieval-hexagon-pack-cab2da0aa3a0",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "wall_straight.gltf",
+      "name": "Wall straight (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "straight",
+        "strategy",
+        "wall"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "wall-window-open-kaykit-dungeon-remastered-834d529a98ba",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "wall_window_open.glb",
+      "name": "Wall window open (KayKit Dungeon Remastered)",
+      "origin": "online",
+      "tags": [
+        "dungeon",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "open",
+        "wall",
+        "window"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "wand-kaykit-adventurers-character-pack-db5aa20ada30",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "wand.gltf",
+      "name": "Wand (KayKit Adventurers Character Pack)",
+      "origin": "online",
+      "tags": [
+        "character",
+        "fantasy",
+        "kaykit",
+        "low-poly",
+        "rigged",
+        "wand"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "watertower-kaykit-city-builder-bits-274eb6fda6fd",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "watertower.gltf",
+      "name": "Watertower (KayKit City Builder Bits)",
+      "origin": "online",
+      "tags": [
+        "city",
+        "kaykit",
+        "low-poly",
+        "town",
+        "urban",
+        "watertower"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "wheelbarrow-kaykit-medieval-hexagon-pack-f0bcf7be0289",
+      "kind": "model",
+      "library": "kaykit",
+      "main": "wheelbarrow.gltf",
+      "name": "Wheelbarrow (KayKit Medieval Hexagon Pack)",
+      "origin": "online",
+      "tags": [
+        "hex",
+        "hexagon",
+        "kaykit",
+        "low-poly",
+        "medieval",
+        "strategy",
+        "wheelbarrow"
       ]
     },
     {
