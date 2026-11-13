@@ -1,0 +1,46 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "rock-largea-kenney-nature-kit-9f0a8883c642",
+  "kind": "model",
+  "name": "Rock Largea (Kenney Nature Kit)",
+  "tags": [
+    "low-poly",
+    "nature"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "Kenney: \"Yes, all game assets on the asset pages are public domain licensed (CC0).\"",
+        "at": "https://kenney.nl/support"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`License.txt` states CC0 / public domain (sha256 cb96b75e3560ac78d7a53ce6f083f4cdb5c53faea6141b62d63458dcfe1e4b9d)",
+        "at": "License.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kenney",
+    "page": "https://kenney.nl/assets/nature-kit",
+    "author": "Kenney",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "License.txt",
+      "sha256": "cb96b75e3560ac78d7a53ce6f083f4cdb5c53faea6141b62d63458dcfe1e4b9d",
+      "bytes": 611
+    },
+    {
+      "path": "rock_largeA.glb",
+      "sha256": "6dd15390fd96501dcd1454765a17ba61dbbd8d47705dfe5149c8dd92b353ce25",
+      "bytes": 7552
+    }
+  ],
+  "main": "rock_largeA.glb",
+  "engine_ready": true
+}

@@ -1,0 +1,78 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "metal-021-3c96f2c34e48",
+  "kind": "texture",
+  "name": "Metal 021",
+  "tags": [
+    "21",
+    "ambientcg",
+    "leaks",
+    "metal",
+    "old",
+    "rust",
+    "rusty",
+    "spots",
+    "steel"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "ambientCG: \"All ambientCG assets are provided under the Creative Commons CC0 1.0 Universal License.\"",
+        "at": "https://docs.ambientcg.com/license/"
+      },
+      {
+        "kind": "download_integrity",
+        "detail": "archive Metal021_1K-PNG.zip matched the published size",
+        "at": "https://ambientcg.com/get?file=Metal021_1K-PNG.zip"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "ambientcg",
+    "page": "https://ambientcg.com/view?id=Metal021",
+    "source_id": "Metal021",
+    "retrieved": "2026-11-13",
+    "downloads": [
+      "https://ambientcg.com/get?file=Metal021_1K-PNG.zip"
+    ]
+  },
+  "files": [
+    {
+      "path": "color.png",
+      "sha256": "6fe3eb3735636fc377f1f773bd73b179d3f6429f32921394cd73117b3a21104f",
+      "bytes": 1564437
+    },
+    {
+      "path": "displacement.png",
+      "sha256": "30c261254174ae8e25f4963b0144fff38efe76a8b01f835954872a624a1ad587",
+      "bytes": 1664021
+    },
+    {
+      "path": "metalness.png",
+      "sha256": "7b15b840e6b8a63992a399749da5289bba5caeea3064cd00e9af34d089d27daf",
+      "bytes": 400532
+    },
+    {
+      "path": "normal.png",
+      "sha256": "7ec1785eb5c4136720b0027fd1154aa19a4d93c47fb23e673edc58e8e438c226",
+      "bytes": 4362198
+    },
+    {
+      "path": "roughness.png",
+      "sha256": "74afc56f39334cd1ee32d1fe81b5a6b5a42631a91eaba255a6073ad31fd98c16",
+      "bytes": 641730
+    }
+  ],
+  "main": "color.png",
+  "engine_ready": true,
+  "notes": [
+    "color.png: base color (sRGB)",
+    "normal.png: normal map, OpenGL convention (linear)",
+    "roughness.png: roughness (linear)",
+    "metalness.png: metalness (linear)",
+    "displacement.png: height (linear)"
+  ]
+}

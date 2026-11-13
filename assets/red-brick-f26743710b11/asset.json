@@ -1,0 +1,83 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "red-brick-f26743710b11",
+  "kind": "texture",
+  "name": "Red Brick",
+  "tags": [
+    "brick",
+    "brick wall",
+    "bricks",
+    "exterior",
+    "man made",
+    "polyhaven",
+    "red brick",
+    "rough",
+    "wall"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "Poly Haven: \"Our assets are all licensed as CC0\"",
+        "at": "https://polyhaven.com/license"
+      },
+      {
+        "kind": "download_integrity",
+        "detail": "every file matched the size and MD5 Poly Haven publishes in /files",
+        "at": "https://api.polyhaven.com/files/red_brick"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "polyhaven",
+    "page": "https://polyhaven.com/a/red_brick",
+    "source_id": "red_brick",
+    "author": "Rob Tuytel",
+    "retrieved": "2026-11-13",
+    "downloads": [
+      "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/red_brick/red_brick_diff_1k.png",
+      "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/red_brick/red_brick_nor_gl_1k.png",
+      "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/red_brick/red_brick_rough_1k.png",
+      "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/red_brick/red_brick_ao_1k.png",
+      "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/red_brick/red_brick_disp_1k.png"
+    ]
+  },
+  "files": [
+    {
+      "path": "ao.png",
+      "sha256": "6ce34cb07370e1048b41d1afa4fbc58651eae13f14e37e4ad06481f98b489a58",
+      "bytes": 1900523
+    },
+    {
+      "path": "color.png",
+      "sha256": "6cbeb81b1121713662835b863c0f71859d3b8cd51161d3ddb017631d0bf52d43",
+      "bytes": 5485318
+    },
+    {
+      "path": "displacement.png",
+      "sha256": "a76152c550d9fbeec216fa02a0ae3541e6e31241ce080614fded5272d2684c3a",
+      "bytes": 1646752
+    },
+    {
+      "path": "normal.png",
+      "sha256": "e1116366df05651cb54edea4977563a4c0d4ee7a523be61a51fb895c279fa9a8",
+      "bytes": 2236680
+    },
+    {
+      "path": "roughness.png",
+      "sha256": "77bc9bc6897e0ddf1d2264a04eba4962dff5b0c0bec6279cc1fb715b5f1adbf7",
+      "bytes": 1475706
+    }
+  ],
+  "main": "color.png",
+  "engine_ready": true,
+  "notes": [
+    "color.png: base color (sRGB)",
+    "normal.png: normal map, OpenGL convention (linear)",
+    "roughness.png: roughness (linear)",
+    "ao.png: ambient occlusion (linear)",
+    "displacement.png: height (linear)"
+  ]
+}

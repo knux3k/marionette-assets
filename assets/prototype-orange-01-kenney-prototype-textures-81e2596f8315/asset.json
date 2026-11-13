@@ -1,0 +1,47 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "prototype-orange-01-kenney-prototype-textures-81e2596f8315",
+  "kind": "texture",
+  "name": "Prototype Orange 01 (Kenney Prototype Textures)",
+  "tags": [
+    "grid",
+    "orange",
+    "prototype"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "Kenney: \"Yes, all game assets on the asset pages are public domain licensed (CC0).\"",
+        "at": "https://kenney.nl/support"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`License.txt` states CC0 / public domain (sha256 b17db4082ba7794153340d83f5fcbd26a3d509ff31a3ce3d2c77cb175e35d308)",
+        "at": "License.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kenney",
+    "page": "https://kenney.nl/assets/prototype-textures",
+    "author": "Kenney",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "License.txt",
+      "sha256": "b17db4082ba7794153340d83f5fcbd26a3d509ff31a3ce3d2c77cb175e35d308",
+      "bytes": 611
+    },
+    {
+      "path": "texture_01.png",
+      "sha256": "6861a9f94e45b96e2571a823afad4b6001b6d00f820019128b34ce659a3356ca",
+      "bytes": 9912
+    }
+  ],
+  "main": "texture_01.png",
+  "engine_ready": true
+}

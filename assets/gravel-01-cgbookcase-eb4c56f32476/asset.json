@@ -1,0 +1,51 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "gravel-01-cgbookcase-eb4c56f32476",
+  "kind": "texture",
+  "name": "Gravel 01 (cgbookcase)",
+  "tags": [
+    "gravel",
+    "ground"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "cgbookcase: \"The textures are published under the CC0 1.0 license, which means means you can use them for free without giving credit.\"",
+        "at": "https://www.cgbookcase.com/textures"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "cgbookcase",
+    "page": "https://www.cgbookcase.com/textures/gravel-01",
+    "author": "cgbookcase",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "Gravel01_1K_AO.png",
+      "sha256": "a094c1059c329cce1620883c7753ee8ffd32b402e69e98e3ca33a538184a5ff3",
+      "bytes": 810614
+    },
+    {
+      "path": "Gravel01_1K_BaseColor.png",
+      "sha256": "a6084b299461e868ad7824136d536c9c322afa1c0dbbecd6f108599b6e9e08b0",
+      "bytes": 2526921
+    },
+    {
+      "path": "Gravel01_1K_Normal.png",
+      "sha256": "8eaa725d51136d98fd684968fc3e7263f0f830bbc8f49cf57c4d836c99f815b6",
+      "bytes": 3227991
+    },
+    {
+      "path": "Gravel01_1K_Roughness.png",
+      "sha256": "d383c5201942bac20f675741cf85c78a5edf6755a764111d988aa4a433c7f42e",
+      "bytes": 1284839
+    }
+  ],
+  "main": "Gravel01_1K_BaseColor.png",
+  "engine_ready": true
+}

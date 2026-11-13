@@ -1,0 +1,46 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "impactbell-heavy-kenney-impact-sounds-9a1c240a426d",
+  "kind": "sound",
+  "name": "Impactbell Heavy (Kenney Impact Sounds)",
+  "tags": [
+    "impact",
+    "sfx"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "Kenney: \"Yes, all game assets on the asset pages are public domain licensed (CC0).\"",
+        "at": "https://kenney.nl/support"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`License.txt` states CC0 / public domain (sha256 b49aa9c56b04528b95913de13e506a0f7c5e807b9925db9bfef86af1f91120db)",
+        "at": "License.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "author": "Kenney",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "License.txt",
+      "sha256": "b49aa9c56b04528b95913de13e506a0f7c5e807b9925db9bfef86af1f91120db",
+      "bytes": 608
+    },
+    {
+      "path": "impactBell_heavy_000.ogg",
+      "sha256": "94b8bb5f2d43ab65e4bcc32b28562416e9bc2c51d9fd4be1e333660ee52f977f",
+      "bytes": 13915
+    }
+  ],
+  "main": "impactBell_heavy_000.ogg",
+  "engine_ready": true
+}

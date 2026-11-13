@@ -1,0 +1,46 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "impactmetal-medium-kenney-impact-sounds-c91758dba0f4",
+  "kind": "sound",
+  "name": "Impactmetal Medium (Kenney Impact Sounds)",
+  "tags": [
+    "impact",
+    "sfx"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "Kenney: \"Yes, all game assets on the asset pages are public domain licensed (CC0).\"",
+        "at": "https://kenney.nl/support"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`License.txt` states CC0 / public domain (sha256 b49aa9c56b04528b95913de13e506a0f7c5e807b9925db9bfef86af1f91120db)",
+        "at": "License.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "author": "Kenney",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "License.txt",
+      "sha256": "b49aa9c56b04528b95913de13e506a0f7c5e807b9925db9bfef86af1f91120db",
+      "bytes": 608
+    },
+    {
+      "path": "impactMetal_medium_000.ogg",
+      "sha256": "a96f879fec0864a8938e0c745b6996a6c5679c16a234ce31a01cc995e8401003",
+      "bytes": 7117
+    }
+  ],
+  "main": "impactMetal_medium_000.ogg",
+  "engine_ready": true
+}

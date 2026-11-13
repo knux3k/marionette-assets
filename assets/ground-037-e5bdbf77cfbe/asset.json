@@ -1,0 +1,83 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "ground-037-e5bdbf77cfbe",
+  "kind": "texture",
+  "name": "Ground 037",
+  "tags": [
+    "037",
+    "37",
+    "ambientcg",
+    "damp",
+    "earth",
+    "forest",
+    "grass",
+    "green",
+    "ground",
+    "moss",
+    "natural",
+    "overgrown",
+    "rough",
+    "woodland"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "ambientCG: \"All ambientCG assets are provided under the Creative Commons CC0 1.0 Universal License.\"",
+        "at": "https://docs.ambientcg.com/license/"
+      },
+      {
+        "kind": "download_integrity",
+        "detail": "archive Ground037_1K-PNG.zip matched the published size",
+        "at": "https://ambientcg.com/get?file=Ground037_1K-PNG.zip"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "ambientcg",
+    "page": "https://ambientcg.com/view?id=Ground037",
+    "source_id": "Ground037",
+    "retrieved": "2026-11-13",
+    "downloads": [
+      "https://ambientcg.com/get?file=Ground037_1K-PNG.zip"
+    ]
+  },
+  "files": [
+    {
+      "path": "ao.png",
+      "sha256": "9aba077d7150db1a11f64959b22d62711b13519edfbff5d7101bdea76507e7a7",
+      "bytes": 531132
+    },
+    {
+      "path": "color.png",
+      "sha256": "d428f7b2ca3c724bb6534ef6313574b4c07712e41bab84be69ba41a0d32e947d",
+      "bytes": 2623699
+    },
+    {
+      "path": "displacement.png",
+      "sha256": "69e7e66ebec48870257fd679561a9a7a28ded0fc0a2c2c48e5a8d858bb2e2ac2",
+      "bytes": 1733080
+    },
+    {
+      "path": "normal.png",
+      "sha256": "163837046d8ea7c15a29f12367b7af90e6509e2e3d6168ecf55824746660b9a7",
+      "bytes": 6073011
+    },
+    {
+      "path": "roughness.png",
+      "sha256": "4cd4057af73842857b529d29ae4a61fa67de8813333eda0c82bbee4d3fc357b7",
+      "bytes": 655735
+    }
+  ],
+  "main": "color.png",
+  "engine_ready": true,
+  "notes": [
+    "color.png: base color (sRGB)",
+    "normal.png: normal map, OpenGL convention (linear)",
+    "roughness.png: roughness (linear)",
+    "ao.png: ambient occlusion (linear)",
+    "displacement.png: height (linear)"
+  ]
+}

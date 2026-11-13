@@ -1,0 +1,46 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "footstep-wood-kenney-impact-sounds-08f9f4959e64",
+  "kind": "sound",
+  "name": "Footstep Wood (Kenney Impact Sounds)",
+  "tags": [
+    "impact",
+    "sfx"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "Kenney: \"Yes, all game assets on the asset pages are public domain licensed (CC0).\"",
+        "at": "https://kenney.nl/support"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`License.txt` states CC0 / public domain (sha256 b49aa9c56b04528b95913de13e506a0f7c5e807b9925db9bfef86af1f91120db)",
+        "at": "License.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "author": "Kenney",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "License.txt",
+      "sha256": "b49aa9c56b04528b95913de13e506a0f7c5e807b9925db9bfef86af1f91120db",
+      "bytes": 608
+    },
+    {
+      "path": "footstep_wood_000.ogg",
+      "sha256": "5f1c252942a220d658121bd9417448cd19649ded9fff2ff15f6e50899373ce8e",
+      "bytes": 5949
+    }
+  ],
+  "main": "footstep_wood_000.ogg",
+  "engine_ready": true
+}

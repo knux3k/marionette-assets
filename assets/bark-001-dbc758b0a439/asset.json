@@ -1,0 +1,69 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "bark-001-dbc758b0a439",
+  "kind": "texture",
+  "name": "Bark 001",
+  "tags": [
+    "1",
+    "ambientcg",
+    "bark",
+    "forest",
+    "tree",
+    "wood"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "ambientCG: \"All ambientCG assets are provided under the Creative Commons CC0 1.0 Universal License.\"",
+        "at": "https://docs.ambientcg.com/license/"
+      },
+      {
+        "kind": "download_integrity",
+        "detail": "archive Bark001_1K-PNG.zip matched the published size",
+        "at": "https://ambientcg.com/get?file=Bark001_1K-PNG.zip"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "ambientcg",
+    "page": "https://ambientcg.com/view?id=Bark001",
+    "source_id": "Bark001",
+    "retrieved": "2026-11-13",
+    "downloads": [
+      "https://ambientcg.com/get?file=Bark001_1K-PNG.zip"
+    ]
+  },
+  "files": [
+    {
+      "path": "color.png",
+      "sha256": "404f477feb24501f00dc145ccb285ecf4a439fbc3430c69e9376237b43d617e3",
+      "bytes": 1212257
+    },
+    {
+      "path": "displacement.png",
+      "sha256": "2f434e437e85febda5d427f8f5d18660dd7ae48aaed63a514aa700212f6c8e63",
+      "bytes": 975865
+    },
+    {
+      "path": "normal.png",
+      "sha256": "4361d37eca4d91d5cf6ac996f6e8628f2269613be988b21270bce28f854284cc",
+      "bytes": 3049119
+    },
+    {
+      "path": "roughness.png",
+      "sha256": "2b58947e3feefac660c50ced29e325991ed271396105758d80231b5a989ef8ed",
+      "bytes": 371164
+    }
+  ],
+  "main": "color.png",
+  "engine_ready": true,
+  "notes": [
+    "color.png: base color (sRGB)",
+    "normal.png: normal map, OpenGL convention (linear)",
+    "roughness.png: roughness (linear)",
+    "displacement.png: height (linear)"
+  ]
+}
