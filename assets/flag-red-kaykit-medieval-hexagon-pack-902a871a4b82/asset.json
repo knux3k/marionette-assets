@@ -1,0 +1,62 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "flag-red-kaykit-medieval-hexagon-pack-902a871a4b82",
+  "kind": "model",
+  "name": "Flag red (KayKit Medieval Hexagon Pack)",
+  "tags": [
+    "flag",
+    "hex",
+    "hexagon",
+    "kaykit",
+    "low-poly",
+    "medieval",
+    "red",
+    "strategy"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 881e50d3629fba90629bedc65e9e6f47cfab3609598c296dcb7f70ea83174360)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "sha256": "881e50d3629fba90629bedc65e9e6f47cfab3609598c296dcb7f70ea83174360",
+      "bytes": 1027
+    },
+    {
+      "path": "flag_red.bin",
+      "sha256": "04aea453efb0632960b2395a356fd0ee2fd4c24e16fe726be956b1ee182cf4b5",
+      "bytes": 2464
+    },
+    {
+      "path": "flag_red.gltf",
+      "sha256": "c1f76b1ca3d47a30a868500ecbe2844e89b75b4bebc7283f41bd37561aa58c1f",
+      "bytes": 3020
+    },
+    {
+      "path": "hexagons_medieval.png",
+      "sha256": "5301a06866ba3be68dcc14cc429bd6d0f69004b72884283715d7e233f2e9782e",
+      "bytes": 15783
+    }
+  ],
+  "main": "flag_red.gltf",
+  "engine_ready": true
+}

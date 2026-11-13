@@ -1,0 +1,62 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "skeleton-staff-kaykit-character-pack-skeletons-08e46b21a98a",
+  "kind": "model",
+  "name": "Skeleton Staff (KayKit Character Pack: Skeletons)",
+  "tags": [
+    "character",
+    "fantasy",
+    "kaykit",
+    "low-poly",
+    "rigged",
+    "skeleton",
+    "staff",
+    "undead"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 5d822abca4e08c5a91d329e5372b3dc605cba8d994f752cb0f7dfdb7a0a79954)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "sha256": "5d822abca4e08c5a91d329e5372b3dc605cba8d994f752cb0f7dfdb7a0a79954",
+      "bytes": 914
+    },
+    {
+      "path": "Skeleton_Staff.bin",
+      "sha256": "2b91a59316cea919b2a8b3d94ab85e3b5faa9fdb607a9ab633a6bb6d1e6bbf2f",
+      "bytes": 69244
+    },
+    {
+      "path": "Skeleton_Staff.gltf",
+      "sha256": "6bb554fef0889dc9e1a69a71ddae793a772fc18eea059ded61be4f8157fd2f04",
+      "bytes": 3057
+    },
+    {
+      "path": "skeleton_texture.png",
+      "sha256": "15741a25c53e04fa9bf3beac3bc0de442359404b1ff9be863b892cb551ad3657",
+      "bytes": 17037
+    }
+  ],
+  "main": "Skeleton_Staff.gltf",
+  "engine_ready": true
+}

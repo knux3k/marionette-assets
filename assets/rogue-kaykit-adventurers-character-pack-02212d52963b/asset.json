@@ -1,0 +1,50 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "rogue-kaykit-adventurers-character-pack-02212d52963b",
+  "kind": "model",
+  "name": "Rogue (KayKit Adventurers Character Pack)",
+  "tags": [
+    "character",
+    "fantasy",
+    "kaykit",
+    "low-poly",
+    "rigged",
+    "rogue"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 ae322141814056dda0deea7540d74c41d87aee1da319977cd1bd84ee5a923629)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "sha256": "ae322141814056dda0deea7540d74c41d87aee1da319977cd1bd84ee5a923629",
+      "bytes": 891
+    },
+    {
+      "path": "Rogue.glb",
+      "sha256": "e825437cd4d2ee9c1960b517a74a69101e33eb409ae7fa8cedc7134a998fbb7d",
+      "bytes": 3616284
+    }
+  ],
+  "main": "Rogue.glb",
+  "engine_ready": true
+}

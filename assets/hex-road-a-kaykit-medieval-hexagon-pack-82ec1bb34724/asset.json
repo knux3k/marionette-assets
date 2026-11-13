@@ -1,0 +1,61 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "hex-road-a-kaykit-medieval-hexagon-pack-82ec1bb34724",
+  "kind": "model",
+  "name": "Hex road A (KayKit Medieval Hexagon Pack)",
+  "tags": [
+    "hex",
+    "hexagon",
+    "kaykit",
+    "low-poly",
+    "medieval",
+    "road",
+    "strategy"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 881e50d3629fba90629bedc65e9e6f47cfab3609598c296dcb7f70ea83174360)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "sha256": "881e50d3629fba90629bedc65e9e6f47cfab3609598c296dcb7f70ea83174360",
+      "bytes": 1027
+    },
+    {
+      "path": "hex_road_A.bin",
+      "sha256": "c99db8877fbbbd27673d5e43923ac551f1ebd119c8a503ac2c86e1edfe5d82ee",
+      "bytes": 3708
+    },
+    {
+      "path": "hex_road_A.gltf",
+      "sha256": "ea21573bb6dee5bf3b23c3205738bce9601a91079b48be594501d2f9ed07d296",
+      "bytes": 2995
+    },
+    {
+      "path": "hexagons_medieval.png",
+      "sha256": "5301a06866ba3be68dcc14cc429bd6d0f69004b72884283715d7e233f2e9782e",
+      "bytes": 15783
+    }
+  ],
+  "main": "hex_road_A.gltf",
+  "engine_ready": true
+}

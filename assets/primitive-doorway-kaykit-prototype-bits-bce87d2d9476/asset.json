@@ -1,0 +1,60 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "primitive-doorway-kaykit-prototype-bits-bce87d2d9476",
+  "kind": "model",
+  "name": "Primitive Doorway (KayKit Prototype Bits)",
+  "tags": [
+    "blockout",
+    "doorway",
+    "kaykit",
+    "low-poly",
+    "primitive",
+    "prototype"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 1706d3369ecd7676320c03c25a898cc29fd1bb83bd3136646c45e6f400058887)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Prototype-Bits-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "sha256": "1706d3369ecd7676320c03c25a898cc29fd1bb83bd3136646c45e6f400058887",
+      "bytes": 827
+    },
+    {
+      "path": "Primitive_Doorway.bin",
+      "sha256": "3f8c90ff8c019721aff20d1b60f16dd8b689a2ad14dc5fb83be695e731d92530",
+      "bytes": 1704
+    },
+    {
+      "path": "Primitive_Doorway.gltf",
+      "sha256": "66115931c7daa3d1b7e63716233e9eeb30203f8209b31c8e09553c7b24b78ba1",
+      "bytes": 3040
+    },
+    {
+      "path": "prototypebits_texture.png",
+      "sha256": "dec912e8cc8f8d09c29be48dda0daad90e653939c4e6fc799309ec1ae7a4cbcd",
+      "bytes": 29696
+    }
+  ],
+  "main": "Primitive_Doorway.gltf",
+  "engine_ready": true
+}

@@ -1,0 +1,61 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "mug-full-kaykit-adventurers-character-pack-d4e9bb0cc99e",
+  "kind": "model",
+  "name": "Mug full (KayKit Adventurers Character Pack)",
+  "tags": [
+    "character",
+    "fantasy",
+    "full",
+    "kaykit",
+    "low-poly",
+    "mug",
+    "rigged"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 ae322141814056dda0deea7540d74c41d87aee1da319977cd1bd84ee5a923629)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "sha256": "ae322141814056dda0deea7540d74c41d87aee1da319977cd1bd84ee5a923629",
+      "bytes": 891
+    },
+    {
+      "path": "barbarian_texture.png",
+      "sha256": "7329b2ff9709e8d54c886d5ef49c08bd42b12be3bbb2facb1488a6b48b1e8a80",
+      "bytes": 15089
+    },
+    {
+      "path": "mug_full.bin",
+      "sha256": "b79442e95a5f2d02aec88fca5ea16574e5a5210daf1bc6e294a39a4c7d1aeecb",
+      "bytes": 15772
+    },
+    {
+      "path": "mug_full.gltf",
+      "sha256": "354aa166f25c2e2f88b309129fb5638f98f852358f638293865c7b8767516fda",
+      "bytes": 3084
+    }
+  ],
+  "main": "mug_full.gltf",
+  "engine_ready": true
+}

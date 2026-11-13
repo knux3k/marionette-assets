@@ -1,0 +1,60 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "primitive-stairs-kaykit-prototype-bits-c4863f0eea90",
+  "kind": "model",
+  "name": "Primitive Stairs (KayKit Prototype Bits)",
+  "tags": [
+    "blockout",
+    "kaykit",
+    "low-poly",
+    "primitive",
+    "prototype",
+    "stairs"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 1706d3369ecd7676320c03c25a898cc29fd1bb83bd3136646c45e6f400058887)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Prototype-Bits-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "sha256": "1706d3369ecd7676320c03c25a898cc29fd1bb83bd3136646c45e6f400058887",
+      "bytes": 827
+    },
+    {
+      "path": "Primitive_Stairs.bin",
+      "sha256": "d91608e22f14e9b4d54fe4dcce4c180828cec2d7a475a12a585f61bd643a1de3",
+      "bytes": 3992
+    },
+    {
+      "path": "Primitive_Stairs.gltf",
+      "sha256": "00e2fbcf6fa00482601a42cf33c5d321a12259a5ff8c6ad32ca8ea5c1c11749d",
+      "bytes": 3012
+    },
+    {
+      "path": "prototypebits_texture.png",
+      "sha256": "dec912e8cc8f8d09c29be48dda0daad90e653939c4e6fc799309ec1ae7a4cbcd",
+      "bytes": 29696
+    }
+  ],
+  "main": "Primitive_Stairs.gltf",
+  "engine_ready": true
+}
