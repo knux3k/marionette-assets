@@ -1,0 +1,61 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "sword-2handed-kaykit-adventurers-character-pack-0ec559df821f",
+  "kind": "model",
+  "name": "Sword 2handed (KayKit Adventurers Character Pack)",
+  "tags": [
+    "2handed",
+    "character",
+    "fantasy",
+    "kaykit",
+    "low-poly",
+    "rigged",
+    "sword"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 ae322141814056dda0deea7540d74c41d87aee1da319977cd1bd84ee5a923629)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "sha256": "ae322141814056dda0deea7540d74c41d87aee1da319977cd1bd84ee5a923629",
+      "bytes": 891
+    },
+    {
+      "path": "knight_texture.png",
+      "sha256": "5d250ccc5da020e6126bfa3839f83bd9a465a951ed223e4d13c08b1925e154d4",
+      "bytes": 14172
+    },
+    {
+      "path": "sword_2handed.bin",
+      "sha256": "0f54186de924388d70b7b5b7b9052c8dda2e20647c4fb36a949723b7ed6b7646",
+      "bytes": 19912
+    },
+    {
+      "path": "sword_2handed.gltf",
+      "sha256": "0f67613f6233d637be60cb27e320dd3b855b73d1ca0249df46999f68efb05494",
+      "bytes": 3081
+    }
+  ],
+  "main": "sword_2handed.gltf",
+  "engine_ready": true
+}

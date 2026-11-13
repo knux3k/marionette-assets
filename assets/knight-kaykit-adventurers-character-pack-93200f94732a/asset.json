@@ -1,0 +1,50 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "knight-kaykit-adventurers-character-pack-93200f94732a",
+  "kind": "model",
+  "name": "Knight (KayKit Adventurers Character Pack)",
+  "tags": [
+    "character",
+    "fantasy",
+    "kaykit",
+    "knight",
+    "low-poly",
+    "rigged"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 ae322141814056dda0deea7540d74c41d87aee1da319977cd1bd84ee5a923629)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "Knight.glb",
+      "sha256": "60428e3abc09ba83e595d256e3af8c5c976b46cdae599f0802fc82b4a3445168",
+      "bytes": 3659532
+    },
+    {
+      "path": "LICENSE.txt",
+      "sha256": "ae322141814056dda0deea7540d74c41d87aee1da319977cd1bd84ee5a923629",
+      "bytes": 891
+    }
+  ],
+  "main": "Knight.glb",
+  "engine_ready": true
+}

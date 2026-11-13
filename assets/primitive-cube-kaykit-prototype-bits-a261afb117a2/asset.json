@@ -1,0 +1,60 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "primitive-cube-kaykit-prototype-bits-a261afb117a2",
+  "kind": "model",
+  "name": "Primitive Cube (KayKit Prototype Bits)",
+  "tags": [
+    "blockout",
+    "cube",
+    "kaykit",
+    "low-poly",
+    "primitive",
+    "prototype"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 1706d3369ecd7676320c03c25a898cc29fd1bb83bd3136646c45e6f400058887)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Prototype-Bits-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "sha256": "1706d3369ecd7676320c03c25a898cc29fd1bb83bd3136646c45e6f400058887",
+      "bytes": 827
+    },
+    {
+      "path": "Primitive_Cube.bin",
+      "sha256": "c8dfe476f3a170451d31d164e78f4cf02be0e6890794f21605d40db3c9b7944a",
+      "bytes": 840
+    },
+    {
+      "path": "Primitive_Cube.gltf",
+      "sha256": "97852f496522a6b9048e3a0f6f252eb2e76d19f6586cd947072fa78118614650",
+      "bytes": 2997
+    },
+    {
+      "path": "prototypebits_texture.png",
+      "sha256": "dec912e8cc8f8d09c29be48dda0daad90e653939c4e6fc799309ec1ae7a4cbcd",
+      "bytes": 29696
+    }
+  ],
+  "main": "Primitive_Cube.gltf",
+  "engine_ready": true
+}

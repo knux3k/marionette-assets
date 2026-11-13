@@ -1,0 +1,50 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "barbarian-kaykit-adventurers-character-pack-10a57aa39f22",
+  "kind": "model",
+  "name": "Barbarian (KayKit Adventurers Character Pack)",
+  "tags": [
+    "barbarian",
+    "character",
+    "fantasy",
+    "kaykit",
+    "low-poly",
+    "rigged"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 ae322141814056dda0deea7540d74c41d87aee1da319977cd1bd84ee5a923629)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "Barbarian.glb",
+      "sha256": "cefc311a0e10c7858b6141f5ada7e33268727564fb8ac1347aab97d000669cc6",
+      "bytes": 3613268
+    },
+    {
+      "path": "LICENSE.txt",
+      "sha256": "ae322141814056dda0deea7540d74c41d87aee1da319977cd1bd84ee5a923629",
+      "bytes": 891
+    }
+  ],
+  "main": "Barbarian.glb",
+  "engine_ready": true
+}

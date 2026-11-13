@@ -1,0 +1,59 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "door-a-kaykit-prototype-bits-b004a370ccce",
+  "kind": "model",
+  "name": "Door A (KayKit Prototype Bits)",
+  "tags": [
+    "blockout",
+    "door",
+    "kaykit",
+    "low-poly",
+    "prototype"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 1706d3369ecd7676320c03c25a898cc29fd1bb83bd3136646c45e6f400058887)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Prototype-Bits-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "Door_A.bin",
+      "sha256": "ffdb456d20fbbe4fa3027bdfdf4d915188d0042e70992ed846ea4952de095820",
+      "bytes": 14768
+    },
+    {
+      "path": "Door_A.gltf",
+      "sha256": "67625df662d5ff5c65f820b42691783aa7625124489f55fa80a44e6127089e29",
+      "bytes": 3049
+    },
+    {
+      "path": "LICENSE.txt",
+      "sha256": "1706d3369ecd7676320c03c25a898cc29fd1bb83bd3136646c45e6f400058887",
+      "bytes": 827
+    },
+    {
+      "path": "prototypebits_texture.png",
+      "sha256": "dec912e8cc8f8d09c29be48dda0daad90e653939c4e6fc799309ec1ae7a4cbcd",
+      "bytes": 29696
+    }
+  ],
+  "main": "Door_A.gltf",
+  "engine_ready": true
+}

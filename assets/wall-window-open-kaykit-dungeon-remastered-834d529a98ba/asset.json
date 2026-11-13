@@ -1,0 +1,52 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "wall-window-open-kaykit-dungeon-remastered-834d529a98ba",
+  "kind": "model",
+  "name": "Wall window open (KayKit Dungeon Remastered)",
+  "tags": [
+    "dungeon",
+    "fantasy",
+    "kaykit",
+    "low-poly",
+    "medieval",
+    "open",
+    "wall",
+    "window"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 c5f17abf619731f57f6bbff450f6484214605c13aa96bb75bbcfc70930941ff7)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "sha256": "c5f17abf619731f57f6bbff450f6484214605c13aa96bb75bbcfc70930941ff7",
+      "bytes": 829
+    },
+    {
+      "path": "wall_window_open.glb",
+      "sha256": "7cb4804e55bd90a4c61198b6b9c557ccb87c485b13dfad4b184c9b6d8632438f",
+      "bytes": 57256
+    }
+  ],
+  "main": "wall_window_open.glb",
+  "engine_ready": true
+}

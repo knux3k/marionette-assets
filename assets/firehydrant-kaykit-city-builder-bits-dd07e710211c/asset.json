@@ -1,0 +1,60 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "firehydrant-kaykit-city-builder-bits-dd07e710211c",
+  "kind": "model",
+  "name": "Firehydrant (KayKit City Builder Bits)",
+  "tags": [
+    "city",
+    "firehydrant",
+    "kaykit",
+    "low-poly",
+    "town",
+    "urban"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 b076d86beec660e1550e00796ca24a8b70d7b2187d79954b2e29722b666dce93)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "sha256": "b076d86beec660e1550e00796ca24a8b70d7b2187d79954b2e29722b666dce93",
+      "bytes": 828
+    },
+    {
+      "path": "citybits_texture.png",
+      "sha256": "6d2d9a5a13bce32209cd8c04572ab170504d68f34b1519165c9b0c41871e235b",
+      "bytes": 19885
+    },
+    {
+      "path": "firehydrant.bin",
+      "sha256": "02cab93bf6af8c16da083c6ac92dcc5997bed24dabc1e746ee780e623b07b3de",
+      "bytes": 8056
+    },
+    {
+      "path": "firehydrant.gltf",
+      "sha256": "0a3f9fb95e8b4805602ad26050ee552408553682b41f3e54981a69dfa92a7f3b",
+      "bytes": 3067
+    }
+  ],
+  "main": "firehydrant.gltf",
+  "engine_ready": true
+}

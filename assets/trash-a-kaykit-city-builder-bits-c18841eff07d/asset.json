@@ -1,0 +1,60 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "trash-a-kaykit-city-builder-bits-c18841eff07d",
+  "kind": "model",
+  "name": "Trash A (KayKit City Builder Bits)",
+  "tags": [
+    "city",
+    "kaykit",
+    "low-poly",
+    "town",
+    "trash",
+    "urban"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 b076d86beec660e1550e00796ca24a8b70d7b2187d79954b2e29722b666dce93)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "sha256": "b076d86beec660e1550e00796ca24a8b70d7b2187d79954b2e29722b666dce93",
+      "bytes": 828
+    },
+    {
+      "path": "citybits_texture.png",
+      "sha256": "6d2d9a5a13bce32209cd8c04572ab170504d68f34b1519165c9b0c41871e235b",
+      "bytes": 19885
+    },
+    {
+      "path": "trash_A.bin",
+      "sha256": "3fbaf543d240f71ea70bc2052461c93e9398ca36372c1d401dcc304b2788935d",
+      "bytes": 620
+    },
+    {
+      "path": "trash_A.gltf",
+      "sha256": "dcd3a27821a9d8a781a40a393e167d51c1cdb743edf95edc59236fe32238b464",
+      "bytes": 3029
+    }
+  ],
+  "main": "trash_A.gltf",
+  "engine_ready": true
+}

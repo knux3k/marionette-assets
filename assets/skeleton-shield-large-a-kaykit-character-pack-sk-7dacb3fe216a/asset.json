@@ -1,0 +1,63 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "skeleton-shield-large-a-kaykit-character-pack-sk-7dacb3fe216a",
+  "kind": "model",
+  "name": "Skeleton Shield Large A (KayKit Character Pack: Skeletons)",
+  "tags": [
+    "character",
+    "fantasy",
+    "kaykit",
+    "large",
+    "low-poly",
+    "rigged",
+    "shield",
+    "skeleton",
+    "undead"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 5d822abca4e08c5a91d329e5372b3dc605cba8d994f752cb0f7dfdb7a0a79954)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "sha256": "5d822abca4e08c5a91d329e5372b3dc605cba8d994f752cb0f7dfdb7a0a79954",
+      "bytes": 914
+    },
+    {
+      "path": "Skeleton_Shield_Large_A.bin",
+      "sha256": "06d975dbf7058088c0ad2cde1932e15435b5d374de3be21199a97d3be25d776d",
+      "bytes": 33292
+    },
+    {
+      "path": "Skeleton_Shield_Large_A.gltf",
+      "sha256": "7844df0f1607259c45d01fd4f9d7bad03b5bfe50897a136831915fecff240a92",
+      "bytes": 3071
+    },
+    {
+      "path": "skeleton_texture.png",
+      "sha256": "15741a25c53e04fa9bf3beac3bc0de442359404b1ff9be863b892cb551ad3657",
+      "bytes": 17037
+    }
+  ],
+  "main": "Skeleton_Shield_Large_A.gltf",
+  "engine_ready": true
+}

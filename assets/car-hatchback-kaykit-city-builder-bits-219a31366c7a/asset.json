@@ -1,0 +1,61 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "car-hatchback-kaykit-city-builder-bits-219a31366c7a",
+  "kind": "model",
+  "name": "Car hatchback (KayKit City Builder Bits)",
+  "tags": [
+    "car",
+    "city",
+    "hatchback",
+    "kaykit",
+    "low-poly",
+    "town",
+    "urban"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "KayKit: \"Free for personal and commercial use, no attribution required. (CC0 Licensed)\"",
+        "at": "https://kaylousberg.itch.io/kaykit-dungeon-remastered"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`LICENSE.txt` states CC0 / public domain (sha256 b076d86beec660e1550e00796ca24a8b70d7b2187d79954b2e29722b666dce93)",
+        "at": "LICENSE.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kaykit",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0",
+    "author": "Kay Lousberg",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "sha256": "b076d86beec660e1550e00796ca24a8b70d7b2187d79954b2e29722b666dce93",
+      "bytes": 828
+    },
+    {
+      "path": "car_hatchback.bin",
+      "sha256": "e7756d8a44553ef75091bb4baa41388bcb1a1b44388008a3e670d05cb12f4c5f",
+      "bytes": 53564
+    },
+    {
+      "path": "car_hatchback.gltf",
+      "sha256": "e38be3dbdfbc95b0e794fc5c8164b2ff658b2dc5049b51d38179d16a9432b4f3",
+      "bytes": 10952
+    },
+    {
+      "path": "citybits_texture.png",
+      "sha256": "6d2d9a5a13bce32209cd8c04572ab170504d68f34b1519165c9b0c41871e235b",
+      "bytes": 19885
+    }
+  ],
+  "main": "car_hatchback.gltf",
+  "engine_ready": true
+}
