@@ -1,0 +1,52 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "cobblestone-01-cgbookcase-da237567990b",
+  "kind": "texture",
+  "name": "Cobblestone 01 (cgbookcase)",
+  "tags": [
+    "cobblestone",
+    "stone",
+    "street"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "cgbookcase: \"The textures are published under the CC0 1.0 license, which means means you can use them for free without giving credit.\"",
+        "at": "https://www.cgbookcase.com/textures"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "cgbookcase",
+    "page": "https://www.cgbookcase.com/textures/cobblestone-01",
+    "author": "cgbookcase",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "Cobblestone01_1K_AO.png",
+      "sha256": "a701a5660ba1fc27ac9b27998272daf0007ea92735388d392728c23f55ed41c4",
+      "bytes": 755844
+    },
+    {
+      "path": "Cobblestone01_1K_BaseColor.png",
+      "sha256": "4b4c813b2e719c1fbdfa92655e668bce058833b50e1c49d7e3c44d5d24f4a697",
+      "bytes": 2669911
+    },
+    {
+      "path": "Cobblestone01_1K_Normal.png",
+      "sha256": "df9f5af9cf08cbbb0feab1b9e82c88fd983a5cb7eef9008d0f3c7b83b0378479",
+      "bytes": 3019416
+    },
+    {
+      "path": "Cobblestone01_1K_Roughness.png",
+      "sha256": "1d53d34e287395613af97efeb1c9ddf58c12c89e45e936274df77c15bd433690",
+      "bytes": 1210934
+    }
+  ],
+  "main": "Cobblestone01_1K_BaseColor.png",
+  "engine_ready": true
+}

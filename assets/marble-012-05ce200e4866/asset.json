@@ -1,0 +1,81 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "marble-012-05ce200e4866",
+  "kind": "texture",
+  "name": "Marble 012",
+  "tags": [
+    "012",
+    "12",
+    "ambientcg",
+    "bathroom",
+    "elegant",
+    "glossy",
+    "gray",
+    "grey",
+    "kitchen",
+    "light",
+    "marble",
+    "modern",
+    "natural",
+    "polished",
+    "smooth",
+    "stone",
+    "veined",
+    "white"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "ambientCG: \"All ambientCG assets are provided under the Creative Commons CC0 1.0 Universal License.\"",
+        "at": "https://docs.ambientcg.com/license/"
+      },
+      {
+        "kind": "download_integrity",
+        "detail": "archive Marble012_1K-PNG.zip matched the published size",
+        "at": "https://ambientcg.com/get?file=Marble012_1K-PNG.zip"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "ambientcg",
+    "page": "https://ambientcg.com/view?id=Marble012",
+    "source_id": "Marble012",
+    "retrieved": "2026-11-13",
+    "downloads": [
+      "https://ambientcg.com/get?file=Marble012_1K-PNG.zip"
+    ]
+  },
+  "files": [
+    {
+      "path": "color.png",
+      "sha256": "c3a903a10a1e8273789cd40e3d49fd2cb2e39abcb579294fe8820dc218b55dd6",
+      "bytes": 2046204
+    },
+    {
+      "path": "displacement.png",
+      "sha256": "50b52ae6762241b6d33df1693360b7fa6519384004f983acf43a213d15bf73d5",
+      "bytes": 1950856
+    },
+    {
+      "path": "normal.png",
+      "sha256": "d35c6f6a2c57e1853c92b6131be7943cbb2542c95288c238b9ac84188bbb9552",
+      "bytes": 3488070
+    },
+    {
+      "path": "roughness.png",
+      "sha256": "8c1e88602a73f3cc546bbe9803e5184e32f9f606d293c00023ca8107f52a4d93",
+      "bytes": 496768
+    }
+  ],
+  "main": "color.png",
+  "engine_ready": true,
+  "notes": [
+    "color.png: base color (sRGB)",
+    "normal.png: normal map, OpenGL convention (linear)",
+    "roughness.png: roughness (linear)",
+    "displacement.png: height (linear)"
+  ]
+}

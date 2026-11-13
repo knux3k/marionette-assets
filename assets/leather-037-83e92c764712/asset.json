@@ -1,0 +1,69 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "leather-037-83e92c764712",
+  "kind": "texture",
+  "name": "Leather 037",
+  "tags": [
+    "37",
+    "ambientcg",
+    "brown",
+    "clean",
+    "dark",
+    "leather"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "ambientCG: \"All ambientCG assets are provided under the Creative Commons CC0 1.0 Universal License.\"",
+        "at": "https://docs.ambientcg.com/license/"
+      },
+      {
+        "kind": "download_integrity",
+        "detail": "archive Leather037_1K-PNG.zip matched the published size",
+        "at": "https://ambientcg.com/get?file=Leather037_1K-PNG.zip"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "ambientcg",
+    "page": "https://ambientcg.com/view?id=Leather037",
+    "source_id": "Leather037",
+    "retrieved": "2026-11-13",
+    "downloads": [
+      "https://ambientcg.com/get?file=Leather037_1K-PNG.zip"
+    ]
+  },
+  "files": [
+    {
+      "path": "color.png",
+      "sha256": "f7e24e580a1de22e64f79bf1deff88a70003c3db259b48fdea26ab6025428f20",
+      "bytes": 489318
+    },
+    {
+      "path": "displacement.png",
+      "sha256": "c5539be2fe04c997896e7bed2985ac4090cd120359133cfc5052b499fe06aa62",
+      "bytes": 2011119
+    },
+    {
+      "path": "normal.png",
+      "sha256": "854966006cd8cddf74281a4e1d96f49ff9bf50ffb2084ddffd8f7c2af5d5139a",
+      "bytes": 5530792
+    },
+    {
+      "path": "roughness.png",
+      "sha256": "e26cdd46e82aa1192f5bdebd7891d76c15b28297aea0d55dee78d966477d4933",
+      "bytes": 702024
+    }
+  ],
+  "main": "color.png",
+  "engine_ready": true,
+  "notes": [
+    "color.png: base color (sRGB)",
+    "normal.png: normal map, OpenGL convention (linear)",
+    "roughness.png: roughness (linear)",
+    "displacement.png: height (linear)"
+  ]
+}

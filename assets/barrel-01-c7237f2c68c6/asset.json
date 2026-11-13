@@ -1,0 +1,83 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "barrel-01-c7237f2c68c6",
+  "kind": "model",
+  "name": "Barrel_01",
+  "tags": [
+    "barrel",
+    "containers",
+    "drums",
+    "explosive",
+    "explosive barrel",
+    "fuel barrel",
+    "industrial",
+    "metal",
+    "oil",
+    "oil barrel",
+    "polyhaven",
+    "radioactive",
+    "red barrel"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "Poly Haven: \"Our assets are all licensed as CC0\"",
+        "at": "https://polyhaven.com/license"
+      },
+      {
+        "kind": "download_integrity",
+        "detail": "every file matched the size and MD5 Poly Haven publishes in /files",
+        "at": "https://api.polyhaven.com/files/Barrel_01"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "polyhaven",
+    "page": "https://polyhaven.com/a/Barrel_01",
+    "source_id": "Barrel_01",
+    "author": "Jorge Camacho",
+    "retrieved": "2026-11-13",
+    "downloads": [
+      "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/Barrel_01/Barrel_01_1k.gltf",
+      "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/Barrel_01/Barrel_01.bin",
+      "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/Barrel_01/Barrel_01_explosive_arm_1k.jpg",
+      "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/Barrel_01/Barrel_01_explosive_diff_1k.jpg",
+      "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/Barrel_01/Barrel_01_explosive_nor_gl_1k.jpg"
+    ]
+  },
+  "files": [
+    {
+      "path": "Barrel_01.bin",
+      "sha256": "fe8369c1ac796059b62a091c0db7367dc420aa2cee212672e48f991f4208da98",
+      "bytes": 81756
+    },
+    {
+      "path": "Barrel_01.gltf",
+      "sha256": "78ebc8d72ce08c0ec30a21ef29deece8aa66edc8881d1ebff636856721c4047f",
+      "bytes": 2615
+    },
+    {
+      "path": "textures/Barrel_01_explosive_arm_1k.png",
+      "sha256": "b2dfc819ef554e4dd7bcebe8df9d740a73b738a74e5b95fd4e0ef89f7b6fcd21",
+      "bytes": 1881951
+    },
+    {
+      "path": "textures/Barrel_01_explosive_diff_1k.png",
+      "sha256": "0e4656b5d24941b414af75a24fb9be10befcf086ba02d4a8119365b1d1e49bcf",
+      "bytes": 1513392
+    },
+    {
+      "path": "textures/Barrel_01_explosive_nor_gl_1k.png",
+      "sha256": "6fe9e721af1e43d7f081cc32bec9a089f415e436415a71957e359f6406e0d117",
+      "bytes": 1590661
+    }
+  ],
+  "main": "Barrel_01.gltf",
+  "engine_ready": true,
+  "notes": [
+    "JPEG textures converted to PNG; glTF image paths updated"
+  ]
+}

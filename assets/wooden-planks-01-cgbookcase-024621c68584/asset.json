@@ -1,0 +1,51 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "wooden-planks-01-cgbookcase-024621c68584",
+  "kind": "texture",
+  "name": "Wooden Planks 01 (cgbookcase)",
+  "tags": [
+    "planks",
+    "wood"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "cgbookcase: \"The textures are published under the CC0 1.0 license, which means means you can use them for free without giving credit.\"",
+        "at": "https://www.cgbookcase.com/textures"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "cgbookcase",
+    "page": "https://www.cgbookcase.com/textures/wooden-planks-01",
+    "author": "cgbookcase",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "WoodenPlanks01_1K_AO.png",
+      "sha256": "19137298bbd2631d59bf41349082362b39407f0273b346f95ac0b489e42b65b2",
+      "bytes": 654716
+    },
+    {
+      "path": "WoodenPlanks01_1K_BaseColor.png",
+      "sha256": "31c9f5e06a28be2dbb8ac227479ad5bcd9aa8f1b3ce7e8aa3e094e1a9efb01f0",
+      "bytes": 2066086
+    },
+    {
+      "path": "WoodenPlanks01_1K_Normal.png",
+      "sha256": "88133218d16f90f454f625bbb18bafe007e6758cc881146e1f6ca5cddfd23626",
+      "bytes": 2417433
+    },
+    {
+      "path": "WoodenPlanks01_1K_Roughness.png",
+      "sha256": "978496a67e3d7871881cdb628c0a074027b8bc16308cc6bc3144eb66f453f407",
+      "bytes": 995152
+    }
+  ],
+  "main": "WoodenPlanks01_1K_BaseColor.png",
+  "engine_ready": true
+}

@@ -1,0 +1,74 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "fabric-030-809a3a523777",
+  "kind": "texture",
+  "name": "Fabric 030",
+  "tags": [
+    "30",
+    "ambientcg",
+    "cloth",
+    "fabric",
+    "grey"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "ambientCG: \"All ambientCG assets are provided under the Creative Commons CC0 1.0 Universal License.\"",
+        "at": "https://docs.ambientcg.com/license/"
+      },
+      {
+        "kind": "download_integrity",
+        "detail": "archive Fabric030_1K-PNG.zip matched the published size",
+        "at": "https://ambientcg.com/get?file=Fabric030_1K-PNG.zip"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "ambientcg",
+    "page": "https://ambientcg.com/view?id=Fabric030",
+    "source_id": "Fabric030",
+    "retrieved": "2026-11-13",
+    "downloads": [
+      "https://ambientcg.com/get?file=Fabric030_1K-PNG.zip"
+    ]
+  },
+  "files": [
+    {
+      "path": "ao.png",
+      "sha256": "1991f98056164440d19fc1af7003aa05600d19dd23d53c072cb42711bb76d16a",
+      "bytes": 731795
+    },
+    {
+      "path": "color.png",
+      "sha256": "23e34d9cdebbab8e8b3f6d90c3385db5484c1d21cad0ebf126d420d91173c550",
+      "bytes": 2495795
+    },
+    {
+      "path": "displacement.png",
+      "sha256": "8d03aa57f272ff13f886457975c6ea406f826c70473218f7e8828aa187156161",
+      "bytes": 1986744
+    },
+    {
+      "path": "normal.png",
+      "sha256": "34b86ebe2b3ad89760b3197df672ce999289a02cfe685182db73ea88ea19cc2a",
+      "bytes": 6151467
+    },
+    {
+      "path": "roughness.png",
+      "sha256": "9b9bcde3487826c7a6bb589c8865c2fda0c1a7ba90115daf36cea47d005eee7c",
+      "bytes": 844403
+    }
+  ],
+  "main": "color.png",
+  "engine_ready": true,
+  "notes": [
+    "color.png: base color (sRGB)",
+    "normal.png: normal map, OpenGL convention (linear)",
+    "roughness.png: roughness (linear)",
+    "ao.png: ambient occlusion (linear)",
+    "displacement.png: height (linear)"
+  ]
+}

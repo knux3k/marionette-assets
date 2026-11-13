@@ -1,0 +1,100 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "modern-arm-chair-01-0913192e5b94",
+  "kind": "model",
+  "name": "Modern Arm Chair 01",
+  "tags": [
+    "chair",
+    "contemporary",
+    "fancy",
+    "furniture",
+    "leather",
+    "lounge",
+    "modern",
+    "office",
+    "polyhaven",
+    "seating",
+    "wood",
+    "wooden"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "Poly Haven: \"Our assets are all licensed as CC0\"",
+        "at": "https://polyhaven.com/license"
+      },
+      {
+        "kind": "download_integrity",
+        "detail": "every file matched the size and MD5 Poly Haven publishes in /files",
+        "at": "https://api.polyhaven.com/files/modern_arm_chair_01"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "polyhaven",
+    "page": "https://polyhaven.com/a/modern_arm_chair_01",
+    "source_id": "modern_arm_chair_01",
+    "author": "Vibrant Nordic",
+    "retrieved": "2026-11-13",
+    "downloads": [
+      "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/modern_arm_chair_01/modern_arm_chair_01_1k.gltf",
+      "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/modern_arm_chair_01/modern_arm_chair_01.bin",
+      "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_arm_chair_01/modern_arm_chair_01_legs_arm_1k.jpg",
+      "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_arm_chair_01/modern_arm_chair_01_legs_diff_1k.jpg",
+      "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_arm_chair_01/modern_arm_chair_01_legs_nor_gl_1k.jpg",
+      "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_arm_chair_01/modern_arm_chair_01_pillow_arm_1k.jpg",
+      "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_arm_chair_01/modern_arm_chair_01_pillow_diff_1k.jpg",
+      "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_arm_chair_01/modern_arm_chair_01_pillow_nor_gl_1k.jpg"
+    ]
+  },
+  "files": [
+    {
+      "path": "modern_arm_chair_01.bin",
+      "sha256": "8755f2f498c0bb165660379d1b045465751c16bbeaf553c8dd76bb14c16d1ff6",
+      "bytes": 240728
+    },
+    {
+      "path": "modern_arm_chair_01.gltf",
+      "sha256": "84bdf0243b16499702867e69c380e4e848df912f992c54f870c97bb8fc9bd01c",
+      "bytes": 4929
+    },
+    {
+      "path": "textures/modern_arm_chair_01_legs_arm_1k.png",
+      "sha256": "f8e6385003176625e1507fc206ee8c2d9a0a792381cc0618cf7f2145aa41f72c",
+      "bytes": 1291466
+    },
+    {
+      "path": "textures/modern_arm_chair_01_legs_diff_1k.png",
+      "sha256": "c3554475c8e40589306052782793a43e18482f2996227d6a1c28e720b4a415a3",
+      "bytes": 880214
+    },
+    {
+      "path": "textures/modern_arm_chair_01_legs_nor_gl_1k.png",
+      "sha256": "3abe88bc9f1a4b9634fb05959ec6d90b79349b7ec05c9020c24a5707235e9932",
+      "bytes": 1242081
+    },
+    {
+      "path": "textures/modern_arm_chair_01_pillow_arm_1k.png",
+      "sha256": "f4276011b97da66691c745bbad85da375a21852ffaf87cfb0e7c61aad13fbd4c",
+      "bytes": 704147
+    },
+    {
+      "path": "textures/modern_arm_chair_01_pillow_diff_1k.png",
+      "sha256": "7c2873d1bcdf9649d773218f40ca2812402e8d64159c01c65525e023ae423180",
+      "bytes": 358573
+    },
+    {
+      "path": "textures/modern_arm_chair_01_pillow_nor_gl_1k.png",
+      "sha256": "aba6cdf96ee620d4156c01b797a462fa0466044304d56bdc3909b39612036850",
+      "bytes": 716347
+    }
+  ],
+  "main": "modern_arm_chair_01.gltf",
+  "engine_ready": true,
+  "notes": [
+    "JPEG textures converted to PNG; glTF image paths updated"
+  ]
+}

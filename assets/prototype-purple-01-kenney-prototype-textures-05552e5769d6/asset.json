@@ -1,0 +1,47 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "prototype-purple-01-kenney-prototype-textures-05552e5769d6",
+  "kind": "texture",
+  "name": "Prototype Purple 01 (Kenney Prototype Textures)",
+  "tags": [
+    "grid",
+    "prototype",
+    "purple"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "Kenney: \"Yes, all game assets on the asset pages are public domain licensed (CC0).\"",
+        "at": "https://kenney.nl/support"
+      },
+      {
+        "kind": "license_file",
+        "detail": "`License.txt` states CC0 / public domain (sha256 b17db4082ba7794153340d83f5fcbd26a3d509ff31a3ce3d2c77cb175e35d308)",
+        "at": "License.txt"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "kenney",
+    "page": "https://kenney.nl/assets/prototype-textures",
+    "author": "Kenney",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "License.txt",
+      "sha256": "b17db4082ba7794153340d83f5fcbd26a3d509ff31a3ce3d2c77cb175e35d308",
+      "bytes": 611
+    },
+    {
+      "path": "texture_01.png",
+      "sha256": "0e0c2dfff301d16919ec1c5f977dbae4743f0c840aa11f1d255c2fec3291159e",
+      "bytes": 9797
+    }
+  ],
+  "main": "texture_01.png",
+  "engine_ready": true
+}

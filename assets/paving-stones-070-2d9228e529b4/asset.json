@@ -1,0 +1,76 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "paving-stones-070-2d9228e529b4",
+  "kind": "texture",
+  "name": "Paving Stones 070",
+  "tags": [
+    "70",
+    "ambientcg",
+    "cobble",
+    "old",
+    "pavement",
+    "paving",
+    "stones"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "ambientCG: \"All ambientCG assets are provided under the Creative Commons CC0 1.0 Universal License.\"",
+        "at": "https://docs.ambientcg.com/license/"
+      },
+      {
+        "kind": "download_integrity",
+        "detail": "archive PavingStones070_1K-PNG.zip matched the published size",
+        "at": "https://ambientcg.com/get?file=PavingStones070_1K-PNG.zip"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "ambientcg",
+    "page": "https://ambientcg.com/view?id=PavingStones070",
+    "source_id": "PavingStones070",
+    "retrieved": "2026-11-13",
+    "downloads": [
+      "https://ambientcg.com/get?file=PavingStones070_1K-PNG.zip"
+    ]
+  },
+  "files": [
+    {
+      "path": "ao.png",
+      "sha256": "daad384e5f8294d2d8d7f9da8347d59654208eae1ec49cbe173c7a7315fe54ce",
+      "bytes": 355954
+    },
+    {
+      "path": "color.png",
+      "sha256": "3b2937e6970d2edcc5d497d0e00cb5a66332eb746be7b81d4a57f7377c520153",
+      "bytes": 2416592
+    },
+    {
+      "path": "displacement.png",
+      "sha256": "7f249e0af1d8686166b8708877ee05aa69b9cdac0e7383d21b8ec121fca17f2b",
+      "bytes": 1687742
+    },
+    {
+      "path": "normal.png",
+      "sha256": "60fc6c70ac8d9f7f3adf887d7507cc48c7370c8317c7997fd7bdddbb764d995f",
+      "bytes": 5755724
+    },
+    {
+      "path": "roughness.png",
+      "sha256": "f101acc8e7f20d2dd3feee53839a4a2951c1e6ac38eedfe53baec6b7ad7e5a22",
+      "bytes": 532963
+    }
+  ],
+  "main": "color.png",
+  "engine_ready": true,
+  "notes": [
+    "color.png: base color (sRGB)",
+    "normal.png: normal map, OpenGL convention (linear)",
+    "roughness.png: roughness (linear)",
+    "ao.png: ambient occlusion (linear)",
+    "displacement.png: height (linear)"
+  ]
+}

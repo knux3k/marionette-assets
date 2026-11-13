@@ -1,0 +1,51 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "brick-wall-01-cgbookcase-2fec3e01c954",
+  "kind": "texture",
+  "name": "Brick Wall 01 (cgbookcase)",
+  "tags": [
+    "brick",
+    "wall"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "cgbookcase: \"The textures are published under the CC0 1.0 license, which means means you can use them for free without giving credit.\"",
+        "at": "https://www.cgbookcase.com/textures"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "cgbookcase",
+    "page": "https://www.cgbookcase.com/textures/brick-wall-01",
+    "author": "cgbookcase",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "BrickWall01_1K_AO.png",
+      "sha256": "f6b8109641a4165c43ad4b3236273d8951a5d61dc2fe721d7487a32ece3b87a5",
+      "bytes": 622068
+    },
+    {
+      "path": "BrickWall01_1K_BaseColor.png",
+      "sha256": "a5882faf5e915d9e555391628a5761c2e08ce7e2c81b3e8a56ceeb77ea8f74a2",
+      "bytes": 2523333
+    },
+    {
+      "path": "BrickWall01_1K_Normal.png",
+      "sha256": "f9bc5d6d0e2b5934c540f5787b464374d7a9b56588bfe983e862aced54050e8a",
+      "bytes": 2276341
+    },
+    {
+      "path": "BrickWall01_1K_Roughness.png",
+      "sha256": "f9db984a4c817df84cfe795fc62a9f91f246c242d4fb9c533ee7f9275c742a36",
+      "bytes": 901868
+    }
+  ],
+  "main": "BrickWall01_1K_BaseColor.png",
+  "engine_ready": true
+}

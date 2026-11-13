@@ -1,0 +1,52 @@
+{
+  "format": "marionette.pool_asset/1",
+  "id": "parquet-flooring-01-cgbookcase-c058881601c8",
+  "kind": "texture",
+  "name": "Parquet Flooring 01 (cgbookcase)",
+  "tags": [
+    "floor",
+    "parquet",
+    "wood"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "proof": [
+      {
+        "kind": "library_policy",
+        "detail": "cgbookcase: \"The textures are published under the CC0 1.0 license, which means means you can use them for free without giving credit.\"",
+        "at": "https://www.cgbookcase.com/textures"
+      }
+    ]
+  },
+  "source": {
+    "origin": "online",
+    "library": "cgbookcase",
+    "page": "https://www.cgbookcase.com/textures/parquet-flooring-01",
+    "author": "cgbookcase",
+    "retrieved": "2026-11-13"
+  },
+  "files": [
+    {
+      "path": "ParquetFlooring01_1K_AO.png",
+      "sha256": "44d25785b079de05e44edc976d9ea5d77b642b087fd64e48e5b04c9ab3f876a3",
+      "bytes": 312763
+    },
+    {
+      "path": "ParquetFlooring01_1K_BaseColor.png",
+      "sha256": "873ee6f60aa99bc073a1a8aae34d73da5f777e213adf58bdd33c68d27e4a6d64",
+      "bytes": 1595573
+    },
+    {
+      "path": "ParquetFlooring01_1K_Normal.png",
+      "sha256": "f6e59287b5cc38b03601a9d11a992de4e50485f1beb5eb439b4f5caef230f836",
+      "bytes": 1474408
+    },
+    {
+      "path": "ParquetFlooring01_1K_Roughness.png",
+      "sha256": "67a45e23c7c3eff1dff48a332e17e1a7581ca89309e084fccfff668e946af4de",
+      "bytes": 441463
+    }
+  ],
+  "main": "ParquetFlooring01_1K_BaseColor.png",
+  "engine_ready": true
+}

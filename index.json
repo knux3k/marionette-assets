@@ -2,6 +2,60 @@
   "assets": [
     {
       "engine_ready": true,
+      "id": "bark-001-dbc758b0a439",
+      "kind": "texture",
+      "library": "ambientcg",
+      "main": "color.png",
+      "name": "Bark 001",
+      "origin": "online",
+      "tags": [
+        "1",
+        "ambientcg",
+        "bark",
+        "forest",
+        "tree",
+        "wood"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "barrel-01-c7237f2c68c6",
+      "kind": "model",
+      "library": "polyhaven",
+      "main": "Barrel_01.gltf",
+      "name": "Barrel_01",
+      "origin": "online",
+      "tags": [
+        "barrel",
+        "containers",
+        "drums",
+        "explosive",
+        "explosive barrel",
+        "fuel barrel",
+        "industrial",
+        "metal",
+        "oil",
+        "oil barrel",
+        "polyhaven",
+        "radioactive",
+        "red barrel"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "barrel-kenney-platformer-kit-5e1c9e865763",
+      "kind": "model",
+      "library": "kenney",
+      "main": "barrel.glb",
+      "name": "Barrel (Kenney Platformer Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "platformer"
+      ]
+    },
+    {
+      "engine_ready": true,
       "id": "blip",
       "kind": "sound",
       "library": null,
@@ -14,6 +68,179 @@
         "pickup",
         "sfx",
         "ui"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "brick-wall-01-cgbookcase-2fec3e01c954",
+      "kind": "texture",
+      "library": "cgbookcase",
+      "main": "BrickWall01_1K_BaseColor.png",
+      "name": "Brick Wall 01 (cgbookcase)",
+      "origin": "online",
+      "tags": [
+        "brick",
+        "wall"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "campfire-logs-kenney-nature-kit-4f0150a83894",
+      "kind": "model",
+      "library": "kenney",
+      "main": "campfire_logs.glb",
+      "name": "Campfire Logs (Kenney Nature Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "nature"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "chest-kenney-platformer-kit-e35b2b57b0d9",
+      "kind": "model",
+      "library": "kenney",
+      "main": "chest.glb",
+      "name": "Chest (Kenney Platformer Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "platformer"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "cobblestone-01-cgbookcase-da237567990b",
+      "kind": "texture",
+      "library": "cgbookcase",
+      "main": "Cobblestone01_1K_BaseColor.png",
+      "name": "Cobblestone 01 (cgbookcase)",
+      "origin": "online",
+      "tags": [
+        "cobblestone",
+        "stone",
+        "street"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "coin-gold-kenney-platformer-kit-f5c9f3a042e3",
+      "kind": "model",
+      "library": "kenney",
+      "main": "coin-gold.glb",
+      "name": "Coin Gold (Kenney Platformer Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "platformer"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "crate-kenney-platformer-kit-1c62b963ab81",
+      "kind": "model",
+      "library": "kenney",
+      "main": "crate.glb",
+      "name": "Crate (Kenney Platformer Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "platformer"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "fabric-030-809a3a523777",
+      "kind": "texture",
+      "library": "ambientcg",
+      "main": "color.png",
+      "name": "Fabric 030",
+      "origin": "online",
+      "tags": [
+        "30",
+        "ambientcg",
+        "cloth",
+        "fabric",
+        "grey"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "flag-kenney-platformer-kit-a159dc2bd0eb",
+      "kind": "model",
+      "library": "kenney",
+      "main": "flag.glb",
+      "name": "Flag (Kenney Platformer Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "platformer"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "flower-reda-kenney-nature-kit-a2e2f92cb39b",
+      "kind": "model",
+      "library": "kenney",
+      "main": "flower_redA.glb",
+      "name": "Flower Reda (Kenney Nature Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "nature"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "footstep-concrete-kenney-impact-sounds-7a773f1fb606",
+      "kind": "sound",
+      "library": "kenney",
+      "main": "footstep_concrete_000.ogg",
+      "name": "Footstep Concrete (Kenney Impact Sounds)",
+      "origin": "online",
+      "tags": [
+        "impact",
+        "sfx"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "footstep-grass-kenney-impact-sounds-fd347f4f2832",
+      "kind": "sound",
+      "library": "kenney",
+      "main": "footstep_grass_000.ogg",
+      "name": "Footstep Grass (Kenney Impact Sounds)",
+      "origin": "online",
+      "tags": [
+        "impact",
+        "sfx"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "footstep-wood-kenney-impact-sounds-08f9f4959e64",
+      "kind": "sound",
+      "library": "kenney",
+      "main": "footstep_wood_000.ogg",
+      "name": "Footstep Wood (Kenney Impact Sounds)",
+      "origin": "online",
+      "tags": [
+        "impact",
+        "sfx"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "gravel-01-cgbookcase-eb4c56f32476",
+      "kind": "texture",
+      "library": "cgbookcase",
+      "main": "Gravel01_1K_BaseColor.png",
+      "name": "Gravel 01 (cgbookcase)",
+      "origin": "online",
+      "tags": [
+        "gravel",
+        "ground"
       ]
     },
     {
@@ -35,6 +262,414 @@
     },
     {
       "engine_ready": true,
+      "id": "ground-037-e5bdbf77cfbe",
+      "kind": "texture",
+      "library": "ambientcg",
+      "main": "color.png",
+      "name": "Ground 037",
+      "origin": "online",
+      "tags": [
+        "037",
+        "37",
+        "ambientcg",
+        "damp",
+        "earth",
+        "forest",
+        "grass",
+        "green",
+        "ground",
+        "moss",
+        "natural",
+        "overgrown",
+        "rough",
+        "woodland"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "heart-kenney-platformer-kit-78ceea6b52b4",
+      "kind": "model",
+      "library": "kenney",
+      "main": "heart.glb",
+      "name": "Heart (Kenney Platformer Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "platformer"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "impactbell-heavy-kenney-impact-sounds-9a1c240a426d",
+      "kind": "sound",
+      "library": "kenney",
+      "main": "impactBell_heavy_000.ogg",
+      "name": "Impactbell Heavy (Kenney Impact Sounds)",
+      "origin": "online",
+      "tags": [
+        "impact",
+        "sfx"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "impactglass-medium-kenney-impact-sounds-c1b532e85fcd",
+      "kind": "sound",
+      "library": "kenney",
+      "main": "impactGlass_medium_000.ogg",
+      "name": "Impactglass Medium (Kenney Impact Sounds)",
+      "origin": "online",
+      "tags": [
+        "impact",
+        "sfx"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "impactmetal-medium-kenney-impact-sounds-c91758dba0f4",
+      "kind": "sound",
+      "library": "kenney",
+      "main": "impactMetal_medium_000.ogg",
+      "name": "Impactmetal Medium (Kenney Impact Sounds)",
+      "origin": "online",
+      "tags": [
+        "impact",
+        "sfx"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "impactmining-kenney-impact-sounds-6f53207dc90e",
+      "kind": "sound",
+      "library": "kenney",
+      "main": "impactMining_000.ogg",
+      "name": "Impactmining (Kenney Impact Sounds)",
+      "origin": "online",
+      "tags": [
+        "impact",
+        "sfx"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "impactpunch-medium-kenney-impact-sounds-63430996a8e8",
+      "kind": "sound",
+      "library": "kenney",
+      "main": "impactPunch_medium_000.ogg",
+      "name": "Impactpunch Medium (Kenney Impact Sounds)",
+      "origin": "online",
+      "tags": [
+        "impact",
+        "sfx"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "impactsoft-medium-kenney-impact-sounds-8e60aa1fbaa7",
+      "kind": "sound",
+      "library": "kenney",
+      "main": "impactSoft_medium_000.ogg",
+      "name": "Impactsoft Medium (Kenney Impact Sounds)",
+      "origin": "online",
+      "tags": [
+        "impact",
+        "sfx"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "impactwood-medium-kenney-impact-sounds-65c72d7f34a8",
+      "kind": "sound",
+      "library": "kenney",
+      "main": "impactWood_medium_000.ogg",
+      "name": "Impactwood Medium (Kenney Impact Sounds)",
+      "origin": "online",
+      "tags": [
+        "impact",
+        "sfx"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "key-kenney-platformer-kit-0621701f6798",
+      "kind": "model",
+      "library": "kenney",
+      "main": "key.glb",
+      "name": "Key (Kenney Platformer Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "platformer"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "ladder-kenney-platformer-kit-58fa6fe87b1b",
+      "kind": "model",
+      "library": "kenney",
+      "main": "ladder.glb",
+      "name": "Ladder (Kenney Platformer Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "platformer"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "leather-037-83e92c764712",
+      "kind": "texture",
+      "library": "ambientcg",
+      "main": "color.png",
+      "name": "Leather 037",
+      "origin": "online",
+      "tags": [
+        "37",
+        "ambientcg",
+        "brown",
+        "clean",
+        "dark",
+        "leather"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "log-stack-kenney-nature-kit-e34d8e7b8ac9",
+      "kind": "model",
+      "library": "kenney",
+      "main": "log_stack.glb",
+      "name": "Log Stack (Kenney Nature Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "nature"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "marble-012-05ce200e4866",
+      "kind": "texture",
+      "library": "ambientcg",
+      "main": "color.png",
+      "name": "Marble 012",
+      "origin": "online",
+      "tags": [
+        "012",
+        "12",
+        "ambientcg",
+        "bathroom",
+        "elegant",
+        "glossy",
+        "gray",
+        "grey",
+        "kitchen",
+        "light",
+        "marble",
+        "modern",
+        "natural",
+        "polished",
+        "smooth",
+        "stone",
+        "veined",
+        "white"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "metal-021-3c96f2c34e48",
+      "kind": "texture",
+      "library": "ambientcg",
+      "main": "color.png",
+      "name": "Metal 021",
+      "origin": "online",
+      "tags": [
+        "21",
+        "ambientcg",
+        "leaks",
+        "metal",
+        "old",
+        "rust",
+        "rusty",
+        "spots",
+        "steel"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "modern-arm-chair-01-0913192e5b94",
+      "kind": "model",
+      "library": "polyhaven",
+      "main": "modern_arm_chair_01.gltf",
+      "name": "Modern Arm Chair 01",
+      "origin": "online",
+      "tags": [
+        "chair",
+        "contemporary",
+        "fancy",
+        "furniture",
+        "leather",
+        "lounge",
+        "modern",
+        "office",
+        "polyhaven",
+        "seating",
+        "wood",
+        "wooden"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "mushroom-redgroup-kenney-nature-kit-bc3a8b18c927",
+      "kind": "model",
+      "library": "kenney",
+      "main": "mushroom_redGroup.glb",
+      "name": "Mushroom Redgroup (Kenney Nature Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "nature"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "parquet-flooring-01-cgbookcase-c058881601c8",
+      "kind": "texture",
+      "library": "cgbookcase",
+      "main": "ParquetFlooring01_1K_BaseColor.png",
+      "name": "Parquet Flooring 01 (cgbookcase)",
+      "origin": "online",
+      "tags": [
+        "floor",
+        "parquet",
+        "wood"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "paving-stones-070-2d9228e529b4",
+      "kind": "texture",
+      "library": "ambientcg",
+      "main": "color.png",
+      "name": "Paving Stones 070",
+      "origin": "online",
+      "tags": [
+        "70",
+        "ambientcg",
+        "cobble",
+        "old",
+        "pavement",
+        "paving",
+        "stones"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "plant-bush-kenney-nature-kit-1164921b3b60",
+      "kind": "model",
+      "library": "kenney",
+      "main": "plant_bush.glb",
+      "name": "Plant Bush (Kenney Nature Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "nature"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "platform-kenney-platformer-kit-052ca587534f",
+      "kind": "model",
+      "library": "kenney",
+      "main": "platform.glb",
+      "name": "Platform (Kenney Platformer Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "platformer"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "potted-plant-02-d2511f256d37",
+      "kind": "model",
+      "library": "polyhaven",
+      "main": "potted_plant_02.gltf",
+      "name": "Potted Plant 02",
+      "origin": "online",
+      "tags": [
+        "decorative",
+        "green",
+        "leaf",
+        "medium",
+        "nature",
+        "plant",
+        "plants",
+        "polyhaven",
+        "pot",
+        "potplant",
+        "potted plants",
+        "terracotta",
+        "vase"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "prototype-dark-01-kenney-prototype-textures-e264cefad1ca",
+      "kind": "texture",
+      "library": "kenney",
+      "main": "texture_01.png",
+      "name": "Prototype Dark 01 (Kenney Prototype Textures)",
+      "origin": "online",
+      "tags": [
+        "dark",
+        "grid",
+        "prototype"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "prototype-dark-07-kenney-prototype-textures-cc78b9a07a28",
+      "kind": "texture",
+      "library": "kenney",
+      "main": "texture_07.png",
+      "name": "Prototype Dark 07 (Kenney Prototype Textures)",
+      "origin": "online",
+      "tags": [
+        "dark",
+        "grid",
+        "prototype"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "prototype-dark-13-kenney-prototype-textures-8299be047782",
+      "kind": "texture",
+      "library": "kenney",
+      "main": "texture_13.png",
+      "name": "Prototype Dark 13 (Kenney Prototype Textures)",
+      "origin": "online",
+      "tags": [
+        "dark",
+        "grid",
+        "prototype"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "prototype-green-01-kenney-prototype-textures-55af691ef1b5",
+      "kind": "texture",
+      "library": "kenney",
+      "main": "texture_01.png",
+      "name": "Prototype Green 01 (Kenney Prototype Textures)",
+      "origin": "online",
+      "tags": [
+        "green",
+        "grid",
+        "prototype"
+      ]
+    },
+    {
+      "engine_ready": true,
       "id": "prototype-grid",
       "kind": "texture",
       "library": null,
@@ -46,6 +681,110 @@
         "grid",
         "measure",
         "prototype",
+        "wall"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "prototype-light-01-kenney-prototype-textures-083b8d6cdb26",
+      "kind": "texture",
+      "library": "kenney",
+      "main": "texture_01.png",
+      "name": "Prototype Light 01 (Kenney Prototype Textures)",
+      "origin": "online",
+      "tags": [
+        "grid",
+        "light",
+        "prototype"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "prototype-light-07-kenney-prototype-textures-7db2a49b172a",
+      "kind": "texture",
+      "library": "kenney",
+      "main": "texture_07.png",
+      "name": "Prototype Light 07 (Kenney Prototype Textures)",
+      "origin": "online",
+      "tags": [
+        "grid",
+        "light",
+        "prototype"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "prototype-light-13-kenney-prototype-textures-612d85172115",
+      "kind": "texture",
+      "library": "kenney",
+      "main": "texture_13.png",
+      "name": "Prototype Light 13 (Kenney Prototype Textures)",
+      "origin": "online",
+      "tags": [
+        "grid",
+        "light",
+        "prototype"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "prototype-orange-01-kenney-prototype-textures-81e2596f8315",
+      "kind": "texture",
+      "library": "kenney",
+      "main": "texture_01.png",
+      "name": "Prototype Orange 01 (Kenney Prototype Textures)",
+      "origin": "online",
+      "tags": [
+        "grid",
+        "orange",
+        "prototype"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "prototype-purple-01-kenney-prototype-textures-05552e5769d6",
+      "kind": "texture",
+      "library": "kenney",
+      "main": "texture_01.png",
+      "name": "Prototype Purple 01 (Kenney Prototype Textures)",
+      "origin": "online",
+      "tags": [
+        "grid",
+        "prototype",
+        "purple"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "prototype-red-01-kenney-prototype-textures-741de112678c",
+      "kind": "texture",
+      "library": "kenney",
+      "main": "texture_01.png",
+      "name": "Prototype Red 01 (Kenney Prototype Textures)",
+      "origin": "online",
+      "tags": [
+        "grid",
+        "prototype",
+        "red"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "red-brick-f26743710b11",
+      "kind": "texture",
+      "library": "polyhaven",
+      "main": "color.png",
+      "name": "Red Brick",
+      "origin": "online",
+      "tags": [
+        "brick",
+        "brick wall",
+        "bricks",
+        "exterior",
+        "man made",
+        "polyhaven",
+        "red brick",
+        "rough",
         "wall"
       ]
     },
@@ -67,6 +806,181 @@
     },
     {
       "engine_ready": true,
+      "id": "rock-largea-kenney-nature-kit-9f0a8883c642",
+      "kind": "model",
+      "library": "kenney",
+      "main": "rock_largeA.glb",
+      "name": "Rock Largea (Kenney Nature Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "nature"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "rock-moss-set-02-72a279e9f680",
+      "kind": "model",
+      "library": "polyhaven",
+      "main": "rock_moss_set_02.gltf",
+      "name": "Rock Moss Set 02",
+      "origin": "online",
+      "tags": [
+        "collection: pine_forest",
+        "dirt",
+        "nature",
+        "outdoor",
+        "pebbles",
+        "polyhaven",
+        "rock",
+        "rocks",
+        "stones"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "rock-talla-kenney-nature-kit-e382fe05522c",
+      "kind": "model",
+      "library": "kenney",
+      "main": "rock_tallA.glb",
+      "name": "Rock Talla (Kenney Nature Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "nature"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "sign-kenney-platformer-kit-860de7fb2d9b",
+      "kind": "model",
+      "library": "kenney",
+      "main": "sign.glb",
+      "name": "Sign (Kenney Platformer Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "platformer"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "spring-kenney-platformer-kit-4599abc37324",
+      "kind": "model",
+      "library": "kenney",
+      "main": "spring.glb",
+      "name": "Spring (Kenney Platformer Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "platformer"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "street-lamp-01-1a7466d73142",
+      "kind": "model",
+      "library": "polyhaven",
+      "main": "street_lamp_01.gltf",
+      "name": "Street Lamp 01",
+      "origin": "online",
+      "tags": [
+        "city",
+        "collection: hidden_alley",
+        "industrial",
+        "lamppost",
+        "light",
+        "lighting",
+        "night",
+        "outdoor",
+        "pole",
+        "polyhaven",
+        "road",
+        "sidewalk",
+        "street",
+        "urban"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "stump-round-kenney-nature-kit-4d335163852b",
+      "kind": "model",
+      "library": "kenney",
+      "main": "stump_round.glb",
+      "name": "Stump Round (Kenney Nature Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "nature"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "tent-detailedopen-kenney-nature-kit-c75ce3bc82ce",
+      "kind": "model",
+      "library": "kenney",
+      "main": "tent_detailedOpen.glb",
+      "name": "Tent Detailedopen (Kenney Nature Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "nature"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "tree-kenney-platformer-kit-05306abef02a",
+      "kind": "model",
+      "library": "kenney",
+      "main": "tree.glb",
+      "name": "Tree (Kenney Platformer Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "platformer"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "tree-oak-kenney-nature-kit-7ba5f89d307f",
+      "kind": "model",
+      "library": "kenney",
+      "main": "tree_oak.glb",
+      "name": "Tree Oak (Kenney Nature Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "nature"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "tree-palm-kenney-nature-kit-66155bd75674",
+      "kind": "model",
+      "library": "kenney",
+      "main": "tree_palm.glb",
+      "name": "Tree Palm (Kenney Nature Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "nature"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "tree-pinetalla-kenney-nature-kit-1097aaa6dc48",
+      "kind": "model",
+      "library": "kenney",
+      "main": "tree_pineTallA.glb",
+      "name": "Tree Pinetalla (Kenney Nature Kit)",
+      "origin": "online",
+      "tags": [
+        "low-poly",
+        "nature"
+      ]
+    },
+    {
+      "engine_ready": true,
       "id": "wooden-crate",
       "kind": "model",
       "library": null,
@@ -78,6 +992,48 @@
         "crate",
         "cube",
         "prop",
+        "wood"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "wooden-crate-01-e463eca6cc66",
+      "kind": "model",
+      "library": "polyhaven",
+      "main": "wooden_crate_01.gltf",
+      "name": "Wooden Crate 01",
+      "origin": "online",
+      "tags": [
+        "antique",
+        "box",
+        "chest",
+        "collection: smugglers_cove",
+        "colonial",
+        "commercial",
+        "container",
+        "containers",
+        "crate",
+        "fancy",
+        "farmhouse",
+        "maritime",
+        "old",
+        "polyhaven",
+        "prop",
+        "vintage",
+        "wood",
+        "wooden"
+      ]
+    },
+    {
+      "engine_ready": true,
+      "id": "wooden-planks-01-cgbookcase-024621c68584",
+      "kind": "texture",
+      "library": "cgbookcase",
+      "main": "WoodenPlanks01_1K_BaseColor.png",
+      "name": "Wooden Planks 01 (cgbookcase)",
+      "origin": "online",
+      "tags": [
+        "planks",
         "wood"
       ]
     }
